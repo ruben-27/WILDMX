@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Rubén Torres-->
+<productos>
+    <equipacion>
+        <marca>
+            <acerbis1>
+                <titulo>ACERBIS START and FINISH</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionacerbis1.jpg</portada>
+                <precio>159.99</precio>
+                <valoracion>../imagenes/productos/valoracion/2cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionacerbis2.jpg</imagenpr1>
+                    <titulo1>ACERBIS X-FLEX</titulo1>
+                    <link1>equipacionacerbis2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionacerbis3.jpg</imagenpr2>
+                    <titulo2>ACERBIS STARWAY X-FLEX</titulo2>
+                    <link2>equipacionacerbis3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionacerbis4.jpg</imagenpr3>
+                    <titulo3>ACERBIS HELIOS VENTED</titulo3>
+                    <link3>equipacionacerbis4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionacerbis5.jpg</imagenpr4>
+                    <titulo4>ACERBIS ARCTURIAN SPECIAL</titulo4>
+                    <link4>equipacionacerbis5.php</link4>
+                </producto4>
+                <descripcion>
+                    Una nueva colección basada en la tecnología innovadora de Acerbis y su conocimiento en este deporte.&lt;br&gt;&lt;br&gt;Con un peso de solo 180 gramos, esta camiseta de cross está hecha completamente de material elástico para maximizar la comodidad. Se han colocado grandes paneles de malla desde la cadera hasta la axila, así como en las mangas, para garantizar el máximo flujo de aire posible en el interior.&lt;br&gt;&lt;br&gt;Además, Acerbis ha actualizado su modelo slim-fit para garantizar que puedas ponerte protección tanto por debajo como por encima de la camiseta.&lt;br&gt;&lt;br&gt;Se trata de unos pantalones con tecnología X-Flex y una cintura totalmente elástica para conseguir una excelente comodidad y funcionalidad. El corte también es ajustable mediante bandas dobles de velcro y una hebilla micrométrica.&lt;br&gt;&lt;br&gt;Los pantalones ofrecen una gran ventilación gracias a la malla en las pantorrillas y sobre las rodillas. Además, el acolchado también se ha colocado sobre las rodillas, pero siguen siendo totalmente compatibles con prácticamente cualquier rodillera gracias a unos paneles elásticos.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </acerbis1>
+            <acerbis2>
+                <titulo>ACERBIS X-FLEX</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionacerbis2.jpg</portada>
+                <precio>179.99</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionacerbis1.jpg</imagenpr1>
+                    <titulo1>ACERBIS START and FINISH</titulo1>
+                    <link1>equipacionacerbis1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionacerbis3.jpg</imagenpr2>
+                    <titulo2>ACERBIS STARWAY X-FLEX</titulo2>
+                    <link2>equipacionacerbis3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionacerbis4.jpg</imagenpr3>
+                    <titulo3>ACERBIS HELIOS VENTED</titulo3>
+                    <link3>equipacionacerbis4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionacerbis5.jpg</imagenpr4>
+                    <titulo4>ACERBIS ARCTURIAN SPECIAL</titulo4>
+                    <link4>equipacionacerbis5.php</link4>
+                </producto4>
+                <descripcion>
+                    Una nueva colección basada en la tecnología innovadora de Acerbis y su conocimiento en este deporte.&lt;br&gt;&lt;br&gt;Con un peso de solo 180 gramos, esta camiseta de cross está hecha completamente de material elástico para maximizar la comodidad. Se han colocado grandes paneles de malla desde la cadera hasta la axila, así como en las mangas, para garantizar el máximo flujo de aire posible en el interior.&lt;br&gt;&lt;br&gt;Además, Acerbis ha actualizado su modelo slim-fit para garantizar que puedas ponerte protección tanto por debajo como por encima de la camiseta.&lt;br&gt;&lt;br&gt;Se trata de unos pantalones con tecnología X-Flex y una cintura totalmente elástica para conseguir una excelente comodidad y funcionalidad. El corte también es ajustable mediante bandas dobles de velcro y una hebilla micrométrica.&lt;br&gt;&lt;br&gt;Los pantalones ofrecen una gran ventilación gracias a la malla en las pantorrillas y sobre las rodillas. Además, el acolchado también se ha colocado sobre las rodillas, pero siguen siendo totalmente compatibles con prácticamente cualquier rodillera gracias a unos paneles elásticos.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </acerbis2>
+            <acerbis3>
+                <titulo>ACERBIS STARWAY X-FLEX</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionacerbis3.jpg</portada>
+                <precio>229.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionacerbis1.jpg</imagenpr1>
+                    <titulo1>ACERBIS START and FINISH</titulo1>
+                    <link1>equipacionacerbis1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionacerbis2.jpg</imagenpr2>
+                    <titulo2>ACERBIS X-FLEX</titulo2>
+                    <link2>equipacionacerbis2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionacerbis4.jpg</imagenpr3>
+                    <titulo3>ACERBIS HELIOS VENTED</titulo3>
+                    <link3>equipacionacerbis4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionacerbis5.jpg</imagenpr4>
+                    <titulo4>ACERBIS ARCTURIAN SPECIAL</titulo4>
+                    <link4>equipacionacerbis5.php</link4>
+                </producto4>
+                <descripcion>
+                    Una nueva colección basada en la tecnología innovadora de Acerbis y su conocimiento en este deporte.&lt;br&gt;&lt;br&gt;Con un peso de solo 180 gramos, esta camiseta de cross está hecha completamente de material elástico para maximizar la comodidad. Se han colocado grandes paneles de malla desde la cadera hasta la axila, así como en las mangas, para garantizar el máximo flujo de aire posible en el interior.&lt;br&gt;&lt;br&gt;Además, Acerbis ha actualizado su modelo slim-fit para garantizar que puedas ponerte protección tanto por debajo como por encima de la camiseta.&lt;br&gt;&lt;br&gt;Se trata de unos pantalones con tecnología X-Flex y una cintura totalmente elástica para conseguir una excelente comodidad y funcionalidad. El corte también es ajustable mediante bandas dobles de velcro y una hebilla micrométrica.&lt;br&gt;&lt;br&gt;Los pantalones ofrecen una gran ventilación gracias a la malla en las pantorrillas y sobre las rodillas. Además, el acolchado también se ha colocado sobre las rodillas, pero siguen siendo totalmente compatibles con prácticamente cualquier rodillera gracias a unos paneles elásticos.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </acerbis3>
+            <acerbis4>
+                <titulo>ACERBIS HELIOS VENTED</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionacerbis4.jpg</portada>
+                <precio>169.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionacerbis1.jpg</imagenpr1>
+                    <titulo1>ACERBIS START and FINISH</titulo1>
+                    <link1>equipacionacerbis1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionacerbis2.jpg</imagenpr2>
+                    <titulo2>ACERBIS X-FLEX</titulo2>
+                    <link2>equipacionacerbis2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionacerbis3.jpg</imagenpr3>
+                    <titulo3>ACERBIS STARWAY X-FLEX</titulo3>
+                    <link3>equipacionacerbis3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionacerbis5.jpg</imagenpr4>
+                    <titulo4>ACERBIS ARCTURIAN SPECIAL</titulo4>
+                    <link4>equipacionacerbis5.php</link4>
+                </producto4>
+                <descripcion>
+                    Una nueva colección basada en la tecnología innovadora de Acerbis y su conocimiento en este deporte.&lt;br&gt;&lt;br&gt;Con un peso de solo 180 gramos, esta camiseta de cross está hecha completamente de material elástico para maximizar la comodidad. Se han colocado grandes paneles de malla desde la cadera hasta la axila, así como en las mangas, para garantizar el máximo flujo de aire posible en el interior.&lt;br&gt;&lt;br&gt;Además, Acerbis ha actualizado su modelo slim-fit para garantizar que puedas ponerte protección tanto por debajo como por encima de la camiseta.&lt;br&gt;&lt;br&gt;Se trata de unos pantalones con tecnología X-Flex y una cintura totalmente elástica para conseguir una excelente comodidad y funcionalidad. El corte también es ajustable mediante bandas dobles de velcro y una hebilla micrométrica.&lt;br&gt;&lt;br&gt;Los pantalones ofrecen una gran ventilación gracias a la malla en las pantorrillas y sobre las rodillas. Además, el acolchado también se ha colocado sobre las rodillas, pero siguen siendo totalmente compatibles con prácticamente cualquier rodillera gracias a unos paneles elásticos.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </acerbis4>
+            <acerbis5>
+                <titulo>ACERBIS ARCTURIAN SPECIAL</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionacerbis5.jpg</portada>
+                <precio>159.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionacerbis1.jpg</imagenpr1>
+                    <titulo1>ACERBIS START and FINISH</titulo1>
+                    <link1>equipacionacerbis1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionacerbis2.jpg</imagenpr2>
+                    <titulo2>ACERBIS X-FLEX</titulo2>
+                    <link2>equipacionacerbis2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionacerbis3.jpg</imagenpr3>
+                    <titulo3>ACERBIS STARWAY X-FLEX</titulo3>
+                    <link3>equipacionacerbis3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionacerbis4.jpg</imagenpr4>
+                    <titulo4>ACERBIS HELIOS VENTED</titulo4>
+                    <link4>equipacionacerbis4.php</link4>
+                </producto4>
+                <descripcion>
+                    Una nueva colección basada en la tecnología innovadora de Acerbis y su conocimiento en este deporte.&lt;br&gt;&lt;br&gt;Con un peso de solo 180 gramos, esta camiseta de cross está hecha completamente de material elástico para maximizar la comodidad. Se han colocado grandes paneles de malla desde la cadera hasta la axila, así como en las mangas, para garantizar el máximo flujo de aire posible en el interior.&lt;br&gt;&lt;br&gt;Además, Acerbis ha actualizado su modelo slim-fit para garantizar que puedas ponerte protección tanto por debajo como por encima de la camiseta.&lt;br&gt;&lt;br&gt;Se trata de unos pantalones con tecnología X-Flex y una cintura totalmente elástica para conseguir una excelente comodidad y funcionalidad. El corte también es ajustable mediante bandas dobles de velcro y una hebilla micrométrica.&lt;br&gt;&lt;br&gt;Los pantalones ofrecen una gran ventilación gracias a la malla en las pantorrillas y sobre las rodillas. Además, el acolchado también se ha colocado sobre las rodillas, pero siguen siendo totalmente compatibles con prácticamente cualquier rodillera gracias a unos paneles elásticos.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </acerbis5>
+        </marca>
+        <marca>
+            <alpi1>
+                <titulo>ALPINESTARS RACER TACTICAL</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionalpinestars1.jpg</portada>
+                <precio>99.99</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionalpinestars2.jpg</imagenpr1>
+                    <titulo1>ALPINESTARS RAPTOR</titulo1>
+                    <link1>equipacionalpinestars2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionalpinestars3.jpg</imagenpr2>
+                    <titulo2>ALPINESTARS TECHSTAR</titulo2>
+                    <link2>equipacionalpinestars3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionalpinestars4.jpg</imagenpr3>
+                    <titulo3>ALPINESTARS TECHSTAR FACTORY</titulo3>
+                    <link3>equipacionalpinestars4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionalpinestars5.jpg</imagenpr4>
+                    <titulo4>ALPINESTARS TECHSTAR VENOM </titulo4>
+                    <link4>equipacionalpinestars5.php</link4>
+                </producto4>
+                <descripcion>
+                    El Alpinestars Racer es un traje de cross ligero y fabricado con materiales muy resistentes. Gracias a los gráficos sublimados, los colores brillantes nunca se desvanecen cuando se lavan.&lt;br&gt;&lt;br&gt;La camiseta está equipada con paneles de malla ventilado que ofrecen una gran ventilación incluso durante los días más calurosos del verano. Su diseño inteligente de multipanel, junto con las mangas precurvadas, proporciona un confort óptimo en todas las situaciones.&lt;br&gt;&lt;br&gt;Estos pantalones de cross están equipados con un agradable forro de malla que elimina de humedad, refuerzos extra en las rodillas y una estructura precurvada de las piernas. Esto contribuye a conseguir un gran ajuste y la comodidad óptima.&lt;br&gt;&lt;br&gt;El modelo mide 185 cm, pesa 84 kg y lleva la talla L de camiseta y 34 de pantalones.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </alpi1>
+            <alpi2>
+                <titulo>ALPINESTARS RAPTOR</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionalpinestars2.jpg</portada>
+                <precio>139.99</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionalpinestars1.jpg</imagenpr1>
+                    <titulo1>ALPINESTARS RACER TACTICAL</titulo1>
+                    <link1>equipacionalpinestars1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionalpinestars3.jpg</imagenpr2>
+                    <titulo2>ALPINESTARS TECHSTAR</titulo2>
+                    <link2>equipacionalpinestars3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionalpinestars4.jpg</imagenpr3>
+                    <titulo3>ALPINESTARS TECHSTAR FACTORY</titulo3>
+                    <link3>equipacionalpinestars4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionalpinestars5.jpg</imagenpr4>
+                    <titulo4>ALPINESTARS TECHSTAR VENOM </titulo4>
+                    <link4>equipacionalpinestars5.php</link4>
+                </producto4>
+                <descripcion>
+                    El Alpinestars Racer es un traje de cross ligero y fabricado con materiales muy resistentes. Gracias a los gráficos sublimados, los colores brillantes nunca se desvanecen cuando se lavan.&lt;br&gt;&lt;br&gt;La camiseta está equipada con paneles de malla ventilado que ofrecen una gran ventilación incluso durante los días más calurosos del verano. Su diseño inteligente de multipanel, junto con las mangas precurvadas, proporciona un confort óptimo en todas las situaciones.&lt;br&gt;&lt;br&gt;Estos pantalones de cross están equipados con un agradable forro de malla que elimina de humedad, refuerzos extra en las rodillas y una estructura precurvada de las piernas. Esto contribuye a conseguir un gran ajuste y la comodidad óptima.&lt;br&gt;&lt;br&gt;El modelo mide 185 cm, pesa 84 kg y lleva la talla L de camiseta y 34 de pantalones.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </alpi2>
+            <alpi3>
+                <titulo>ALPINESTARS TECHSTAR</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionalpinestars3.jpg</portada>
+                <precio>246.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionalpinestars1.jpg</imagenpr1>
+                    <titulo1>ALPINESTARS RACER TACTICAL</titulo1>
+                    <link1>equipacionalpinestars1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionalpinestars2.jpg</imagenpr2>
+                    <titulo2>ALPINESTARS RAPTOR</titulo2>
+                    <link2>equipacionalpinestars2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionalpinestars4.jpg</imagenpr3>
+                    <titulo3>ALPINESTARS TECHSTAR FACTORY</titulo3>
+                    <link3>equipacionalpinestars4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionalpinestars5.jpg</imagenpr4>
+                    <titulo4>ALPINESTARS TECHSTAR VENOM</titulo4>
+                    <link4>equipacionalpinestars5.php</link4>
+                </producto4>
+                <descripcion>
+                    El Alpinestars Racer es un traje de cross ligero y fabricado con materiales muy resistentes. Gracias a los gráficos sublimados, los colores brillantes nunca se desvanecen cuando se lavan.&lt;br&gt;&lt;br&gt;La camiseta está equipada con paneles de malla ventilado que ofrecen una gran ventilación incluso durante los días más calurosos del verano. Su diseño inteligente de multipanel, junto con las mangas precurvadas, proporciona un confort óptimo en todas las situaciones.&lt;br&gt;&lt;br&gt;Estos pantalones de cross están equipados con un agradable forro de malla que elimina de humedad, refuerzos extra en las rodillas y una estructura precurvada de las piernas. Esto contribuye a conseguir un gran ajuste y la comodidad óptima.&lt;br&gt;&lt;br&gt;El modelo mide 185 cm, pesa 84 kg y lleva la talla L de camiseta y 34 de pantalones.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </alpi3>
+            <alpi4>
+                <titulo>ALPINESTARS TECHSTAR FACTORY</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionalpinestars4.jpg</portada>
+                <precio>189.99</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionalpinestars1.jpg</imagenpr1>
+                    <titulo1>ALPINESTARS RACER TACTICAL</titulo1>
+                    <link1>equipacionalpinestars1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionalpinestars2.jpg</imagenpr2>
+                    <titulo2>ALPINESTARS RAPTOR</titulo2>
+                    <link2>equipacionalpinestars2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionalpinestars3.jpg</imagenpr3>
+                    <titulo3>ALPINESTARS TECHSTAR</titulo3>
+                    <link3>equipacionalpinestars3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionalpinestars5.jpg</imagenpr4>
+                    <titulo4>ALPINESTARS TECHSTAR VENOM</titulo4>
+                    <link4>equipacionalpinestars5.php</link4>
+                </producto4>
+                <descripcion>
+                    El Alpinestars Racer es un traje de cross ligero y fabricado con materiales muy resistentes. Gracias a los gráficos sublimados, los colores brillantes nunca se desvanecen cuando se lavan.&lt;br&gt;&lt;br&gt;La camiseta está equipada con paneles de malla ventilado que ofrecen una gran ventilación incluso durante los días más calurosos del verano. Su diseño inteligente de multipanel, junto con las mangas precurvadas, proporciona un confort óptimo en todas las situaciones.&lt;br&gt;&lt;br&gt;Estos pantalones de cross están equipados con un agradable forro de malla que elimina de humedad, refuerzos extra en las rodillas y una estructura precurvada de las piernas. Esto contribuye a conseguir un gran ajuste y la comodidad óptima.&lt;br&gt;&lt;br&gt;El modelo mide 185 cm, pesa 84 kg y lleva la talla L de camiseta y 34 de pantalones.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </alpi4>
+            <alpi5>
+                <titulo>ALPINESTARS TECHSTAR VENOM</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionalpinestars5.jpg</portada>
+                <precio>246.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionalpinestars1.jpg</imagenpr1>
+                    <titulo1>ALPINESTARS RACER TACTICAL</titulo1>
+                    <link1>equipacionalpinestars1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionalpinestars2.jpg</imagenpr2>
+                    <titulo2>ALPINESTARS RAPTOR</titulo2>
+                    <link2>equipacionalpinestars2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionalpinestars3.jpg</imagenpr3>
+                    <titulo3>ALPINESTARS TECHSTAR</titulo3>
+                    <link3>equipacionalpinestars3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionalpinestars4.jpg</imagenpr4>
+                    <titulo4>ALPINESTARS TECHSTAR FACTORY</titulo4>
+                    <link4>equipacionalpinestars4.php</link4>
+                </producto4>
+                <descripcion>
+                    El Alpinestars Racer es un traje de cross ligero y fabricado con materiales muy resistentes. Gracias a los gráficos sublimados, los colores brillantes nunca se desvanecen cuando se lavan.&lt;br&gt;&lt;br&gt;La camiseta está equipada con paneles de malla ventilado que ofrecen una gran ventilación incluso durante los días más calurosos del verano. Su diseño inteligente de multipanel, junto con las mangas precurvadas, proporciona un confort óptimo en todas las situaciones.&lt;br&gt;&lt;br&gt;Estos pantalones de cross están equipados con un agradable forro de malla que elimina de humedad, refuerzos extra en las rodillas y una estructura precurvada de las piernas. Esto contribuye a conseguir un gran ajuste y la comodidad óptima.&lt;br&gt;&lt;br&gt;El modelo mide 185 cm, pesa 84 kg y lleva la talla L de camiseta y 34 de pantalones.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </alpi5>
+        </marca>
+        <marca>
+            <flyracing1>
+                <titulo>FLY RACING F-16</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionflyracing1.jpg</portada>
+                <precio>71.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionflyracing2.jpg</imagenpr1>
+                    <titulo1>FLY RACING LITE</titulo1>
+                    <link1>equipacionflyracing2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionflyracing3.jpg</imagenpr2>
+                    <titulo2>FLY RACING LITE</titulo2>
+                    <link2>equipacionflyracing3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionflyracing4.jpg</imagenpr3>
+                    <titulo3>FLY RACING EVO</titulo3>
+                    <link3>equipacionflyracing4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionflyracing5.jpg</imagenpr4>
+                    <titulo4>FLY RACING LITE</titulo4>
+                    <link4>equipacionflyracing5.php</link4>
+                </producto4>
+                <descripcion>
+                    El Fly F-16 es un traje de cross elegante y clásica compuesta por materiales flexibles y resistentes. Los pantalones están hechos de nailon resistente con refuerzos 900D en la rodilla que hacen que los pantalones sean resistentes y proporcionan una buena protección contra el calor. Cuenta con mangas elásticas cortas que contrarrestan los bultos de aire en la camiseta, mientras que la parte trasera se ha hecho más larga para que se mantenga dentro de los pantalones. Los gráficos están sublimados y no se estropean lavado tras lavado.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </flyracing1>
+            <flyracing2>
+                <titulo>FLY RACING LITE</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionflyracing2.jpg</portada>
+                <precio>116.99</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionflyracing1.jpg</imagenpr1>
+                    <titulo1>FLY RACING F-16</titulo1>
+                    <link1>equipacionflyracing1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionflyracing3.jpg</imagenpr2>
+                    <titulo2>FLY RACING LITE</titulo2>
+                    <link2>equipacionflyracing3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionflyracing4.jpg</imagenpr3>
+                    <titulo3>FLY RACING EVO</titulo3>
+                    <link3>equipacionflyracing4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionflyracing5.jpg</imagenpr4>
+                    <titulo4>FLY RACING LITE</titulo4>
+                    <link4>equipacionflyracing5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Fly Lite es una camiseta de cross minimalista y ligera hecha de materiales que eliminan la humedad y mejoran la ventilación. La camiseta cuenta con mangas cómodas que reducen la aparición de la inflamación de las mangas, mientras que la pieza trasera es más larga para que se mantenga dentro de los pantalones.&lt;br&gt;&lt;br&gt;Los riders profesionales Trey Canard y Andrew Short han diseñado los Fly Kite con la ambición de fabricar pantalones elegantes, minimalistas y extremadamente ligeros. De hecho, su ligereza te ayuda a mantenerte fresco y reduce la fatiga durante la conducción.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </flyracing2>
+            <flyracing3>
+                <titulo>FLY RACING LITE</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionflyracing3.jpg</portada>
+                <precio>228.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionflyracing1.jpg</imagenpr1>
+                    <titulo1>FLY RACING F-16</titulo1>
+                    <link1>equipacionflyracing1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionflyracing2.jpg</imagenpr2>
+                    <titulo2>FLY RACING LITE</titulo2>
+                    <link2>equipacionflyracing2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionflyracing4.jpg</imagenpr3>
+                    <titulo3>FLY RACING EVO</titulo3>
+                    <link3>equipacionflyracing4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionflyracing5.jpg</imagenpr4>
+                    <titulo4>FLY RACING LITE</titulo4>
+                    <link4>equipacionflyracing5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Fly Lite es una camiseta de cross minimalista y ligera hecha de materiales que eliminan la humedad y mejoran la ventilación. La camiseta cuenta con mangas cómodas que reducen la aparición de la inflamación de las mangas, mientras que la pieza trasera es más larga para que se mantenga dentro de los pantalones.&lt;br&gt;&lt;br&gt;Los riders profesionales Trey Canard y Andrew Short han diseñado los Fly Kite con la ambición de fabricar pantalones elegantes, minimalistas y extremadamente ligeros. De hecho, su ligereza te ayuda a mantenerte fresco y reduce la fatiga durante la conducción.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </flyracing3>
+            <flyracing4>
+                <titulo>FLY RACING EVO</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionflyracing4.jpg</portada>
+                <precio>118.99</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionflyracing1.jpg</imagenpr1>
+                    <titulo1>FLY RACING F-16</titulo1>
+                    <link1>equipacionflyracing1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionflyracing2.jpg</imagenpr2>
+                    <titulo2>FLY RACING LITE</titulo2>
+                    <link2>equipacionflyracing2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionflyracing3.jpg</imagenpr3>
+                    <titulo3>FLY RACING LITE</titulo3>
+                    <link3>equipacionflyracing3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionflyracing5.jpg</imagenpr4>
+                    <titulo4>FLY RACING LITE</titulo4>
+                    <link4>equipacionflyracing5.php</link4>
+                </producto4>
+                <descripcion>
+                    El Fly F-16 es un traje de cross elegante y clásica compuesta por materiales flexibles y resistentes. Los pantalones están hechos de nailon resistente con refuerzos 900D en la rodilla que hacen que los pantalones sean resistentes y proporcionan una buena protección contra el calor. Cuenta con mangas elásticas cortas que contrarrestan los bultos de aire en la camiseta, mientras que la parte trasera se ha hecho más larga para que se mantenga dentro de los pantalones. Los gráficos están sublimados y no se estropean lavado tras lavado.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </flyracing4>
+            <flyracing5>
+                <titulo>FLY RACING LITE</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionflyracing5.jpg</portada>
+                <precio>109.99</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionflyracing1.jpg</imagenpr1>
+                    <titulo1>FLY RACING F-16</titulo1>
+                    <link1>equipacionflyracing1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionflyracing2.jpg</imagenpr2>
+                    <titulo2>FLY RACING LITE</titulo2>
+                    <link2>equipacionflyracing2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionflyracing3.jpg</imagenpr3>
+                    <titulo3>FLY RACING LITE</titulo3>
+                    <link3>equipacionflyracing3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionflyracing4.jpg</imagenpr4>
+                    <titulo4>FLY RACING EVO</titulo4>
+                    <link4>equipacionflyracing4.php</link4>
+                </producto4>
+                <descripcion>
+                    La Fly Lite es una camiseta de cross minimalista y ligera hecha de materiales que eliminan la humedad y mejoran la ventilación. La camiseta cuenta con mangas cómodas que reducen la aparición de la inflamación de las mangas, mientras que la pieza trasera es más larga para que se mantenga dentro de los pantalones.&lt;br&gt;&lt;br&gt;Los riders profesionales Trey Canard y Andrew Short han diseñado los Fly Kite con la ambición de fabricar pantalones elegantes, minimalistas y extremadamente ligeros. De hecho, su ligereza te ayuda a mantenerte fresco y reduce la fatiga durante la conducción.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </flyracing5>
+        </marca>
+        <marca>
+            <fox1>
+                <titulo>FOX 360 VIZA</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionfox1.jpg</portada>
+                <precio>119.99</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionfox2.jpg</imagenpr1>
+                    <titulo1>FOX FLEXAIR PREEST</titulo1>
+                    <link1>equipacionfox2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionfox3.jpg</imagenpr2>
+                    <titulo2>FOX FLEXAIR HIFEYE</titulo2>
+                    <link2>equipacionfox3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionfox4.jpg</imagenpr3>
+                    <titulo3>FOX 180</titulo3>
+                    <link3>equipacionfox4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionfox5.jpg</imagenpr4>
+                    <titulo4>FOX 180 MATA</titulo4>
+                    <link4>equipacionfox5.php</link4>
+                </producto4>
+                <descripcion>
+                    La camiseta tiene un ajuste óptimo en la posición de conducción y micromalla en la espalda para mejorar la ventilación. El cuello es compatible con collarines, mientras que los puños de las mangas están diseñados para reducir el engarrotamiento de los antebrazos.&lt;br&gt;&lt;br&gt;Los Fox 360 recuerdan a los primeros días del motocross. Estos pantalones de cross están equipados con las mejores especificaciones y gráficos atemporales. Cuentan con detalles de TPR y ofrecen una gran ventilación. La protección contra el calor robusta ofrecen un gran agarre.&lt;br&gt;&lt;br&gt;Lavado recomendado a 30ºC. No uses ni lejía ni abrillantador. No secar en secadora o utilizar plancha.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </fox1>
+            <fox2>
+                <titulo>FOX FLEXAIR PREEST</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionfox2.jpg</portada>
+                <precio>149.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionfox1.jpg</imagenpr1>
+                    <titulo1>FOX 360 VIZA</titulo1>
+                    <link1>equipacionfox1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionfox3.jpg</imagenpr2>
+                    <titulo2>FOX FLEXAIR HIFEYE</titulo2>
+                    <link2>equipacionfox3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionfox4.jpg</imagenpr3>
+                    <titulo3>FOX 180</titulo3>
+                    <link3>equipacionfox4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionfox5.jpg</imagenpr4>
+                    <titulo4>FOX 180 MATA</titulo4>
+                    <link4>equipacionfox5.php</link4>
+                </producto4>
+                <descripcion>
+                    La camiseta tiene un ajuste óptimo en la posición de conducción y micromalla en la espalda para mejorar la ventilación. El cuello es compatible con collarines, mientras que los puños de las mangas están diseñados para reducir el engarrotamiento de los antebrazos.&lt;br&gt;&lt;br&gt;Los Fox 360 recuerdan a los primeros días del motocross. Estos pantalones de cross están equipados con las mejores especificaciones y gráficos atemporales. Cuentan con detalles de TPR y ofrecen una gran ventilación. La protección contra el calor robusta ofrecen un gran agarre.&lt;br&gt;&lt;br&gt;Lavado recomendado a 30ºC. No uses ni lejía ni abrillantador. No secar en secadora o utilizar plancha.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </fox2>
+            <fox3>
+                <titulo>FOX FLEXAIR HIFEYE</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionfox3.jpg</portada>
+                <precio>149.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionfox1.jpg</imagenpr1>
+                    <titulo1>FOX 360 VIZA</titulo1>
+                    <link1>equipacionfox1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionfox2.jpg</imagenpr2>
+                    <titulo2>FOX FLEXAIR PREEST</titulo2>
+                    <link2>equipacionfox2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionfox4.jpg</imagenpr3>
+                    <titulo3>FOX 180</titulo3>
+                    <link3>equipacionfox4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionfox5.jpg</imagenpr4>
+                    <titulo4>FOX 180 MATA</titulo4>
+                    <link4>equipacionfox5.php</link4>
+                </producto4>
+                <descripcion>
+                    La camiseta tiene un ajuste óptimo en la posición de conducción y micromalla en la espalda para mejorar la ventilación. El cuello es compatible con collarines, mientras que los puños de las mangas están diseñados para reducir el engarrotamiento de los antebrazos.&lt;br&gt;&lt;br&gt;Los Fox 360 recuerdan a los primeros días del motocross. Estos pantalones de cross están equipados con las mejores especificaciones y gráficos atemporales. Cuentan con detalles de TPR y ofrecen una gran ventilación. La protección contra el calor robusta ofrecen un gran agarre.&lt;br&gt;&lt;br&gt;Lavado recomendado a 30ºC. No uses ni lejía ni abrillantador. No secar en secadora o utilizar plancha.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </fox3>
+            <fox4>
+                <titulo>FOX 180</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionfox4.jpg</portada>
+                <precio>89.99</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionfox1.jpg</imagenpr1>
+                    <titulo1>FOX 360 VIZA</titulo1>
+                    <link1>equipacionfox1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionfox2.jpg</imagenpr2>
+                    <titulo2>FOX FLEXAIR PREEST</titulo2>
+                    <link2>equipacionfox2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionfox3.jpg</imagenpr3>
+                    <titulo3>FOX FLEXAIR HIFEYE</titulo3>
+                    <link3>equipacionfox3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionfox5.jpg</imagenpr4>
+                    <titulo4>FOX 180 MATA</titulo4>
+                    <link4>equipacionfox5.php</link4>
+                </producto4>
+                <descripcion>
+                    La camiseta tiene un ajuste óptimo en la posición de conducción y micromalla en la espalda para mejorar la ventilación. El cuello es compatible con collarines, mientras que los puños de las mangas están diseñados para reducir el engarrotamiento de los antebrazos.&lt;br&gt;&lt;br&gt;Los Fox 360 recuerdan a los primeros días del motocross. Estos pantalones de cross están equipados con las mejores especificaciones y gráficos atemporales. Cuentan con detalles de TPR y ofrecen una gran ventilación. La protección contra el calor robusta ofrecen un gran agarre.&lt;br&gt;&lt;br&gt;Lavado recomendado a 30ºC. No uses ni lejía ni abrillantador. No secar en secadora o utilizar plancha.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </fox4>
+            <fox5>
+                <titulo>FOX 180 MATA</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionfox5.jpg</portada>
+                <precio>76.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionfox1.jpg</imagenpr1>
+                    <titulo1>FOX 360 VIZA</titulo1>
+                    <link1>equipacionfox1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionfox2.jpg</imagenpr2>
+                    <titulo2>FOX FLEXAIR PREEST</titulo2>
+                    <link2>equipacionfox2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionfox3.jpg</imagenpr3>
+                    <titulo3>FOX FLEXAIR HIFEYE</titulo3>
+                    <link3>equipacionfox3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionfox4.jpg</imagenpr4>
+                    <titulo4>FOX 180</titulo4>
+                    <link4>equipacionfox4.php</link4>
+                </producto4>
+                <descripcion>
+                    La camiseta tiene un ajuste óptimo en la posición de conducción y micromalla en la espalda para mejorar la ventilación. El cuello es compatible con collarines, mientras que los puños de las mangas están diseñados para reducir el engarrotamiento de los antebrazos.&lt;br&gt;&lt;br&gt;Los Fox 360 recuerdan a los primeros días del motocross. Estos pantalones de cross están equipados con las mejores especificaciones y gráficos atemporales. Cuentan con detalles de TPR y ofrecen una gran ventilación. La protección contra el calor robusta ofrecen un gran agarre.&lt;br&gt;&lt;br&gt;Lavado recomendado a 30ºC. No uses ni lejía ni abrillantador. No secar en secadora o utilizar plancha.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </fox5>
+        </marca>
+        <marca>
+            <oneal1>
+                <titulo>ONEAL ELEMENT IMPACT</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipaciononeal1.jpg</portada>
+                <precio>144.99</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipaciononeal2.jpg</imagenpr1>
+                    <titulo1>ONEAL ELEMENT VILLAIN</titulo1>
+                    <link1>equipaciononeal2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipaciononeal3.jpg</imagenpr2>
+                    <titulo2>ONEAL MAYHEM CRACKLE 91</titulo2>
+                    <link2>equipaciononeal3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipaciononeal4.jpg</imagenpr3>
+                    <titulo3>ONEAL MAYHEM RESEDA</titulo3>
+                    <link3>equipaciononeal4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipaciononeal5.jpg</imagenpr4>
+                    <titulo4>ONEAL ELEMENT WARHAWK</titulo4>
+                    <link4>equipaciononeal5.php</link4>
+                </producto4>
+                <descripcion>
+                    Un traje de cross de O'Neal de 100 % poliéster a prueba de humedad. La camiseta cuenta con una zona trasera más larga para que no se salga de los pantalones en posición inclinada, algo simple pero necesario. Por su parte, los pantalones están equipados con paneles flexibles de Spandex y un cinturón ajustable para mejorar el ajuste en posición de conducción. Además, ¡cuentan con conductos de ventilación colocados estratégicamente para mejorar el confort en el interior!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </oneal1>
+            <oneal2>
+                <titulo>ONEAL ELEMENT VILLAIN</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipaciononeal2.jpg</portada>
+                <precio>83.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipaciononeal1.jpg</imagenpr1>
+                    <titulo1>ONEAL ELEMENT IMPACT</titulo1>
+                    <link1>equipaciononeal1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipaciononeal3.jpg</imagenpr2>
+                    <titulo2>ONEAL MAYHEM CRACKLE 91</titulo2>
+                    <link2>equipaciononeal3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipaciononeal4.jpg</imagenpr3>
+                    <titulo3>ONEAL MAYHEM RESEDA</titulo3>
+                    <link3>equipaciononeal4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipaciononeal5.jpg</imagenpr4>
+                    <titulo4>ONEAL ELEMENT WARHAWK</titulo4>
+                    <link4>equipaciononeal5.php</link4>
+                </producto4>
+                <descripcion>
+                    Un traje de cross de O'Neal de 100 % poliéster a prueba de humedad. La camiseta cuenta con una zona trasera más larga para que no se salga de los pantalones en posición inclinada, algo simple pero necesario. Por su parte, los pantalones están equipados con paneles flexibles de Spandex y un cinturón ajustable para mejorar el ajuste en posición de conducción. Además, ¡cuentan con conductos de ventilación colocados estratégicamente para mejorar el confort en el interior!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </oneal2>
+            <oneal3>
+                <titulo>ONEAL MAYHEM CRACKLE 91</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipaciononeal3.jpg</portada>
+                <precio>178.99</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipaciononeal1.jpg</imagenpr1>
+                    <titulo1>ONEAL ELEMENT IMPACT</titulo1>
+                    <link1>equipaciononeal1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipaciononeal2.jpg</imagenpr2>
+                    <titulo2>ONEAL ELEMENT VILLAIN</titulo2>
+                    <link2>equipaciononeal2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipaciononeal4.jpg</imagenpr3>
+                    <titulo3>ONEAL MAYHEM RESEDA</titulo3>
+                    <link3>equipaciononeal4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipaciononeal5.jpg</imagenpr4>
+                    <titulo4>ONEAL ELEMENT WARHAWK</titulo4>
+                    <link4>equipaciononeal5.php</link4>
+                </producto4>
+                <descripcion>
+                    Un traje de cross de O'Neal de 100 % poliéster a prueba de humedad. La camiseta cuenta con una zona trasera más larga para que no se salga de los pantalones en posición inclinada, algo simple pero necesario. Por su parte, los pantalones están equipados con paneles flexibles de Spandex y un cinturón ajustable para mejorar el ajuste en posición de conducción. Además, ¡cuentan con conductos de ventilación colocados estratégicamente para mejorar el confort en el interior!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </oneal3>
+            <oneal4>
+                <titulo>ONEAL MAYHEM RESEDA</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipaciononeal4.jpg</portada>
+                <precio>199.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipaciononeal1.jpg</imagenpr1>
+                    <titulo1>ONEAL ELEMENT IMPACT</titulo1>
+                    <link1>equipaciononeal1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipaciononeal2.jpg</imagenpr2>
+                    <titulo2>ONEAL MAYHEM VILLAIN</titulo2>
+                    <link2>equipaciononeal2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipaciononeal3.jpg</imagenpr3>
+                    <titulo3>ONEAL MAYHEM CRACKLE 91</titulo3>
+                    <link3>equipaciononeal3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipaciononeal5.jpg</imagenpr4>
+                    <titulo4>ONEAL ELEMENT WARHAWK</titulo4>
+                    <link4>equipaciononeal5.php</link4>
+                </producto4>
+                <descripcion>
+                    Un traje de cross de O'Neal de 100 % poliéster a prueba de humedad. La camiseta cuenta con una zona trasera más larga para que no se salga de los pantalones en posición inclinada, algo simple pero necesario. Por su parte, los pantalones están equipados con paneles flexibles de Spandex y un cinturón ajustable para mejorar el ajuste en posición de conducción. Además, ¡cuentan con conductos de ventilación colocados estratégicamente para mejorar el confort en el interior!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </oneal4>
+            <oneal5>
+                <titulo>ONEAL ELEMENT WARHAWK</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipaciononeal5.jpg</portada>
+                <precio>144.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipaciononeal1.jpg</imagenpr1>
+                    <titulo1>ONEAL ELEMENT IMPACT</titulo1>
+                    <link1>equipaciononeal1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipaciononeal2.jpg</imagenpr2>
+                    <titulo2>ONEAL MAYHEM VILLAIN</titulo2>
+                    <link2>equipaciononeal2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipaciononeal3.jpg</imagenpr3>
+                    <titulo3>ONEAL MAYHEM CRACKLE 91</titulo3>
+                    <link3>equipaciononeal3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipaciononeal4.jpg</imagenpr4>
+                    <titulo4>ONEAL MAYHEM RESEDA</titulo4>
+                    <link4>equipaciononeal4.php</link4>
+                </producto4>
+                <descripcion>
+                    Un traje de cross de O'Neal de 100 % poliéster a prueba de humedad. La camiseta cuenta con una zona trasera más larga para que no se salga de los pantalones en posición inclinada, algo simple pero necesario. Por su parte, los pantalones están equipados con paneles flexibles de Spandex y un cinturón ajustable para mejorar el ajuste en posición de conducción. Además, ¡cuentan con conductos de ventilación colocados estratégicamente para mejorar el confort en el interior!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </oneal5>
+        </marca>
+        <marca>
+            <shot1>
+                <titulo>SHOT ROCKSTAR 2020</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionshot1.jpg</portada>
+                <precio>126.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionshot2.jpg</imagenpr1>
+                    <titulo1>SHOT DEVO VENTURY</titulo1>
+                    <link1>equipacionshot2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionshot3.jpg</imagenpr2>
+                    <titulo2>SHOT DEVO SQUAD</titulo2>
+                    <link2>equipacionshot3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionshot4.jpg</imagenpr3>
+                    <titulo3>SHOT AEROLITE ALPHA</titulo3>
+                    <link3>equipacionshot4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionshot5.jpg</imagenpr4>
+                    <titulo4>SHOT CONTACT SHADOW</titulo4>
+                    <link4>equipacionshot5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Rockstar es una gama clásica de ropa de cross de Shot fabricada con poliéster 600D resistente y malla de poliéster, por lo que son extremadamente resistentes y repelentes a la humedad. - Gráficos sublimados para que la camiseta siempre parezca nueva.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </shot1>
+            <shot2>
+                <titulo>SHOT DEVO VENTURY</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionshot2.jpg</portada>
+                <precio>95.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionshot1.jpg</imagenpr1>
+                    <titulo1>SHOT ROCKSTAR 2020</titulo1>
+                    <link1>equipacionshot1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionshot3.jpg</imagenpr2>
+                    <titulo2>SHOT DEVO SQUAD</titulo2>
+                    <link2>equipacionshot3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionshot4.jpg</imagenpr3>
+                    <titulo3>SHOT AEROLITE ALPHA</titulo3>
+                    <link3>equipacionshot4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionshot5.jpg</imagenpr4>
+                    <titulo4>SHOT CONTACT SHADOW</titulo4>
+                    <link4>equipacionshot5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Devo es una gama clásica de ropa de cross de Shot fabricada con poliéster 600D resistente y malla de poliéster, por lo que son extremadamente resistentes y repelentes a la humedad. - Gráficos sublimados para que la camiseta siempre parezca nueva.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </shot2>
+            <shot3>
+                <titulo>SHOT DEVO SQUAD</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionshot3.jpg</portada>
+                <precio>62.99</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionshot1.jpg</imagenpr1>
+                    <titulo1>SHOT ROCKSTAR 2020</titulo1>
+                    <link1>equipacionshot1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionshot2.jpg</imagenpr2>
+                    <titulo2>SHOT DEVO VENTURY</titulo2>
+                    <link2>equipacionshot2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionshot4.jpg</imagenpr3>
+                    <titulo3>SHOT AEROLITE ALPHA</titulo3>
+                    <link3>equipacionshot4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionshot5.jpg</imagenpr4>
+                    <titulo4>SHOT CONTACT SHADOW</titulo4>
+                    <link4>equipacionshot5.php</link4>
+                </producto4>
+                <descripcion>
+                    El kit clásico Shot Devo's está hecho de poliéster 600D resistente y malla de poliéster, lo que hace que este kit sea increíblemente resistente al desgaste, posea una gran durabilidad y sea además resistente a la humedad.&lt;br&gt;&lt;br&gt;Los pantalones, fabricados con un material resistente al calor en el interior de las rodillas protegen contra el calor del motor, mientras que además proporcionan un buen agarre a la moto, al mismo tiempo los fiables paneles de estiramiento en las rodillas proporcionan un buen ajuste para acomodar la rodilleras.&lt;br&gt;&lt;br&gt;Los colores elegantes y descarados se imprimen usando la tecnología de sublimación que evita que estos se desvanezcan en el lavado y mantengan su brillo durante mas tiempo.&lt;br&gt;&lt;br&gt;El modelo en la imagen mide 184 cm, pesa 82 kg y lleva un jersey talla L y pantalones talla 34.&lt;br&gt;&lt;br&gt;Este kit se lava mejor a 30 °. No use blanqueador o suavizante de telas. No secar en la secadora ni planchar.&lt;br&gt;&lt;br&gt;DuPont™ and Kevlar® are trademarks or registered trademarks of E.I. du Pont de Nemours and Company.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </shot3>
+            <shot4>
+                <titulo>SHOT AEROLITE ALPHA</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionshot4.jpg</portada>
+                <precio>199.99</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionshot1.jpg</imagenpr1>
+                    <titulo1>SHOT ROCKSTAR 2020</titulo1>
+                    <link1>equipacionshot1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionshot2.jpg</imagenpr2>
+                    <titulo2>SHOT DEVO VENTURY</titulo2>
+                    <link2>equipacionshot2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionshot3.jpg</imagenpr3>
+                    <titulo3>SHOT DEVO SQUAD</titulo3>
+                    <link3>equipacionshot3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionshot5.jpg</imagenpr4>
+                    <titulo4>SHOT CONTACT SHADOW</titulo4>
+                    <link4>equipacionshot5.php</link4>
+                </producto4>
+                <descripcion>
+                    ¡La gama Aerolite se caracteriza por elementos modernos y por un look original y elegante para crear una camiseta de cross increíble!&lt;br&gt;&lt;br&gt;Está hecha de materiales ultraligeros y paneles de malla que proporcionan el flujo de aire óptimo. De esta forma, la camiseta te mantendrá fresco y cómodo durante los días calurosos en las competiciones y en los entrenamientos. Además, la zona trasera es más larga que la delantera para que se pueda mantener dentro de los pantalones. Por último, las últimas colecciones de Shot también cuentan con impresiones con una tecnología especial que permite que los colores sean vivos durante más tiempo.&lt;br&gt;&lt;br&gt;Los Aerolite Alpha están entre los pantalones de cross más ligeros del mercado, ¡con un peso de solo 650 gramos! Son tan ligeros que apenas notarás que los llevas puestos. Los pantalones también ofrecen una ventilación increíble gracias a sus paneles cortados a láser que mantienen el interior agradable y fresco durante los días calurosos en la pista. La estructura de las rodillas se ha curvado para conseguir mayor comodidad, mientras que en su interior se han colocado paneles reforzados que protegen del calor del motor y hacen que los pantalones duren más. Por último, las últimas colecciones de Shot también cuentan con impresiones con una tecnología especial que permite que los colores sean vivos durante más tiempo. ¡Simplemente un par de pantalones con características increíbles!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </shot4>
+            <shot5>
+                <titulo>SHOT CONTACT SHADOW</titulo>
+                <portada>../imagenes/productos/equipo/productos/equipacionshot5.jpg</portada>
+                <precio>109.99</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/equipo/productos/equipacionshot1.jpg</imagenpr1>
+                    <titulo1>SHOT ROCKSTAR 2020</titulo1>
+                    <link1>equipacionshot1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/equipo/productos/equipacionshot2.jpg</imagenpr2>
+                    <titulo2>SHOT DEVO VENTURY</titulo2>
+                    <link2>equipacionshot2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/equipo/productos/equipacionshot3.jpg</imagenpr3>
+                    <titulo3>SHOT DEVO SQUAD</titulo3>
+                    <link3>equipacionshot3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/equipo/productos/equipacionshot4.jpg</imagenpr4>
+                    <titulo4>SHOT AEROLITE ALPHA</titulo4>
+                    <link4>equipacionshot4.php</link4>
+                </producto4>
+                <descripcion>
+                    Ropa de cross resistente y duradera hecha de malla y poliéster con refuerzos fuertes en zonas expuestas. Por un lado, los puños están diseñados para reducir el riesgo de sufrir calambres en los brazos, por otro, el cuello es ajustable y muy cómodo cuando te pones el collarín y el casco. - Gráficos sublimados para que la camiseta siempre parezca nueva.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </shot5>
+        </marca>
+    </equipacion>
+</productos>

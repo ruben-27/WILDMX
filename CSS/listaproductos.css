@@ -1,0 +1,303 @@
+/*Rubén Torres*/
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	font-family: Arial;
+	font-size: 16px;
+	background-color: #1C1C1C;
+}
+
+
+/****CABECERA****/
+
+#cabecera{
+	background-color: #1C1C1C;
+    width: 1280px;
+    margin: auto;
+}
+
+header{
+	background-color: #111;
+	font-family: Arial;
+	overflow: hidden;
+	position: sticky;
+	top: 0;
+	z-index: 1;
+    box-shadow: 0px 0px 30px black;
+}
+
+header span{
+	float: right;
+}
+
+nav{
+	width: 1280px;
+	margin: auto;
+	font-size: 17px;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	float: left;
+	padding: 20px;
+}
+
+nav a:hover{
+	background-color: #B1AF1A;
+	color: black;
+}
+
+#seleccionado{
+	background-color: #EDEA21;
+	color: black;
+}
+
+#seleccionado:hover{
+	background-color: #B1AF1A;
+	color: black;
+}
+
+
+/****BANNER****/
+
+#banner{
+	width: 100%;
+    box-shadow: 0px 0px 30px black;
+}
+
+
+/****PRINCIPAL****/
+
+#principal{
+	width: 1280px;
+	color: white;
+	margin: auto;
+	font-size: 20px;
+	text-align: justify;
+}
+
+#principal h1{
+	margin-top: 70px;
+	color: #EDEA21;
+	font-size: 40px;
+}
+
+.texto{
+	margin-top: 15px;
+	margin-left: 30px;
+}
+
+.texto span{
+	font-weight: bold;
+}
+
+
+/**PRODUCTOS**/
+
+.productos{
+    padding: 60px;
+	height: 250px;
+    width: 70%;
+	text-decoration: none;
+	color: #EDEA21;
+	font-size: 35px;
+	transition: all 500ms ease;
+}
+
+.productos2{
+    padding: 60px;
+	height: 250px;
+    width: 70%;
+	text-decoration: none;
+	color: #EDEA21;
+	font-size: 35px;
+	transition: all 500ms ease;
+}
+
+h2{
+    font-size: 30px;
+    color: white;
+}
+
+.hrpro{
+	border: 2px solid #2F2F2F;
+	width: 100%;
+	margin: auto;
+}
+
+
+/**IZQUIERDA**/
+
+.texto_productos{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.productos img{
+	height: 250px;
+    width: 370px;
+    margin-left: 100px;
+    position: absolute;
+    border: 2px solid #EDEA21;
+}
+
+.texto_productos p{
+    color: #6F6F6F;
+    font-size: 17px;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 400
+}
+
+.texto_productos a{
+    text-decoration: none;
+    background-color: #EDEA21;
+	color: black;
+    font-size: 20;
+    padding: 12px;
+    border-radius: 23px;
+}
+
+.texto_productos a:hover{
+    background-color: #B1AF1A;
+}
+
+/**DERECHA**/
+
+.texto_productos2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.productos2 img{
+	height: 250px;
+    width: 370px;
+    margin-left: 600px;
+    position: absolute;
+    border: 2px solid #EDEA21;
+}
+
+.texto_productos2 p{
+    color: #6F6F6F;
+    font-size: 17px;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 400px;
+}
+
+.texto_productos2 a{
+    text-decoration: none;
+    background-color: #EDEA21;
+	color: black;
+    font-size: 20;
+    padding: 12px;
+    border-radius: 23px;
+}
+
+.texto_productos2 a:hover{
+    background-color: #B1AF1A;
+}
+
+
+/****IMAGENES****/
+
+#logo1{
+	width: 250px;
+	padding: 8px; 
+	transition: all 500ms ease;
+}
+
+#logofooter{
+	display: block;
+	margin: auto;
+	width: 250px;
+	transition: all 500ms ease;
+}
+
+#logofooter:hover{
+    filter: drop-shadow(0 0 0.25rem #FFFB00);  
+	transition: all 500ms ease;
+}
+
+
+/****FOOTER****/
+
+footer{
+	margin-top: 50px;
+	bottom: 0px;
+}
+
+hr{
+	border: 2px solid #EDEA21;
+	width: 1280px;
+	margin: auto;
+}
+
+footer h1{
+	text-align: center;
+	margin-top: 40px;
+	color: #EDEA21;
+}
+
+.div1{
+	display: flex;
+	justify-content: center;
+}
+
+.div1 > a{
+	padding: 40px;
+}
+
+footer div img{
+	width: 50px;
+	filter: grayscale(100%);
+}
+
+footer div img:hover{
+	filter: grayscale(0%);
+    filter: drop-shadow(0 0 0.5rem black);  
+}
+
+footer #div2{
+	font-size: 20px;
+	background-color: #111;
+	color: #9E9999;
+	margin-top: 20px;
+}
+
+#div3{
+	padding: 16px;
+	width: 1280px;
+	margin: auto;
+}
+
+footer a{
+	text-decoration: none;
+	color: #EDEA21;
+}
+
+footer a:hover{
+	color: #595353;
+}
+
+#div3 span{
+	float: right;
+}
+
+#div3 span > a{
+	color: #9E9999;
+}
+
+#div3 span > a:hover{
+	color: #595353;
+}

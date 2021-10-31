@@ -1,0 +1,274 @@
+/*Rubén Torres*/
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	font-family: Arial;
+	font-size: 16px;
+	background-color: #1C1C1C;
+}
+
+
+/****CABECERA****/
+
+#cabecera{
+	background-color: #1C1C1C;
+    width: 1280px;
+    margin: auto;
+}
+
+header{
+	background-color: #111;
+	font-family: Arial;
+	overflow: hidden;
+	position: sticky;
+	top: 0;
+	z-index: 1;
+    box-shadow: 0px 0px 30px black;
+}
+
+header span{
+	float: right;
+}
+
+nav{
+	width: 1280px;
+	margin: auto;
+	font-size: 17px;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	float: left;
+	padding: 20px;
+}
+
+nav a:hover{
+	background-color: #B1AF1A;
+	color: black;
+}
+
+#seleccionado{
+	background-color: #EDEA21;
+	color: black;
+}
+
+#seleccionado:hover{
+	background-color: #B1AF1A;
+	color: black;
+}
+
+
+/****BANNER****/
+
+#banner{
+	width: 100%;
+    box-shadow: 0px 0px 30px black;
+}
+
+
+/****TIEMPO****/
+
+#div_tiempo{
+    width: 1280px;
+    height: 130px;
+    margin: auto;
+}
+
+#tiempo{
+    background-color: white;
+    color: black;
+    font-family: Monospace;
+    margin: 40px;
+    width: 350px;
+    text-align: center;
+    font-size: 20px;
+    float: right;
+    box-shadow: 0px 0px 30px black;
+}
+
+#tiempo td{
+    padding: 10px;
+}
+
+#tiempo caption{
+    background-color: #FF5733;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+#temp{
+    width: 25%;
+}
+
+
+/****PRINCIPAL****/
+
+#principal{
+	width: 1280px;
+	color: white;
+	margin: auto;
+	font-size: 20px;
+	text-align: justify;
+	overflow: hidden;
+}
+
+#principal h1{
+	margin-top: 70px;
+	color: #EDEA21;
+	font-size: 40px;
+}
+
+.texto{
+	margin-top: 15px;
+	margin-left: 30px;
+}
+
+.texto span{
+	font-weight: bold;
+}
+
+.p{
+	margin-left: 40px;
+	margin-top: 30px;
+}
+
+ul{
+	margin-left: 80px;
+	margin-top: 15px;
+}
+
+
+/**PRODUCTOS**/
+
+.productos{
+	float: left;
+	margin: 40px;
+	background-color: #111;
+	height: 500px;
+	width: 330px;
+	text-decoration: none;
+	color: #EDEA21;
+	font-size: 35px;
+	transition: all 500ms ease;
+}
+
+.productos:hover{
+	background-color: #EDEA21;
+	color: #111;
+    box-shadow: 0px 0px 30px black;
+	transform: scale(1.1);
+	transition: all 500ms ease;
+}
+
+.productos img{
+	width: 100%;
+    height: 300px;
+}
+
+.productos p{
+    display: table-cell;
+    height: 200px;
+    text-align: center;
+	vertical-align: middle;
+    width: 340px;
+}
+
+/****IMAGENES****/
+
+#logo1{
+	width: 250px;
+	padding: 8px; 
+	transition: all 500ms ease;
+}
+
+#logofooter{
+	display: block;
+	margin: auto;
+	width: 250px;
+	transition: all 500ms ease;
+}
+
+#logofooter:hover{
+    filter: drop-shadow(0 0 0.25rem #FFFB00);  
+	transition: all 500ms ease;
+}
+
+
+/****FOOTER****/
+
+footer{
+	margin-top: 50px;
+	bottom: 0px;
+}
+
+hr{
+	border: 2px solid #EDEA21;
+	width: 1280px;
+	margin: auto;
+}
+
+footer h1{
+	text-align: center;
+	margin-top: 40px;
+	color: #EDEA21;
+}
+
+.div1{
+	display: flex;
+	justify-content: center;
+}
+
+.div1 > a{
+	padding: 40px;
+}
+
+footer div img{
+	width: 50px;
+	filter: grayscale(100%);
+}
+
+footer div img:hover{
+	filter: grayscale(0%);
+    filter: drop-shadow(0 0 0.5rem black);  
+}
+
+footer #div2{
+	font-size: 20px;
+	background-color: #111;
+	color: #9E9999;
+	margin-top: 20px;
+}
+
+#div3{
+	padding: 16px;
+	width: 1280px;
+	margin: auto;
+}
+
+footer a{
+	text-decoration: none;
+	color: #EDEA21;
+}
+
+footer a:hover{
+	color: #595353;
+}
+
+#div3 span{
+	float: right;
+}
+
+#div3 span > a{
+	color: #9E9999;
+}
+
+#div3 span > a:hover{
+	color: #595353;
+}

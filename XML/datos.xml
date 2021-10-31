@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Rubén Torres-->
+<productos>
+    <motos>
+        <marca>
+            <beta1>
+                <!--https://www.motofichas.com/marcas/beta/rr-125-2t-2020-->
+                <titulo>BETA RR 125 2T 2020</titulo>
+                <portada>../imagenes/productos/motos/beta1.jpg</portada>
+                <precio>No declarado</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/beta2.jpg</imagenpr1>
+                    <titulo1>BETA RR 50 2018</titulo1>
+                    <link1>beta2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/beta3.jpg</imagenpr2>
+                    <titulo2>BETA RR 125 4T LC 2018</titulo2>
+                    <link2>beta3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/beta4.jpg</imagenpr3>
+                    <titulo3>BETA RR 125 SM LC 4T 2018</titulo3>
+                    <link3>beta4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/beta5.jpg</imagenpr4>
+                    <titulo4>BETA XTRAINER 2018-2019</titulo4>
+                    <link4>beta5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Beta RR 125 2T enduro fue la gran novedad de la marca italiana en 2018, una moto enfocada a los pilotos más jóvenes -homologada para conducirla con 16 años- que buscan una moto escuela con la que dar el salto en un futuro a un modelo de mayores prestaciones. Aunque se trata de un 125, el propulsor desarrollado por Beta ofrece una entrega muy lineal y progresiva, algo poco habitual en modelos de esta categoría, y que permite aprender con ella a todos los públicos. En 2020 recibe un nuevo cilindro, con lumbrera de escape y diafragmas modificados. Además, se ha montado una nueva brida de escape, una nueva cámara de expansión y un nuevo sistema de válvula de escape. Para terminar con las modificaciones del motor, citar la nueva tapa del embrague. dotada de un sistema de purgado de aire con lo que se modifica el accionamiento del embrague.&lt;br&gt;&lt;br&gt;En la parte ciclo encontramos un nuevo chasis con el que se logra mayor agilidad y estabilidad, además de reducirse el peso y aumentado el confort al reducirse las vibraciones procedentes del motor. También es nuevo el subchasis trasero, mejorando la estanqueidad de la caja del filtro y mejorando la integración del depósito de aceite. Se mejora igualmente el acceso al filtro del aire.&lt;br&gt;&lt;br&gt;En cuanto a las suspensiones, mantiene la horquilla ZF Sachs con barras de 48 mm totalmente regulable sin necesidad de herramientas, aunque se ha revisado para mejorar su respuesta en los impactos secos y para adaptarla al nuevo chasis. Los nuevos ajustes reducen los cabeceos de la moto. El amortiguador trasero es completamente nuevo, un ZF Sachs que ofrece más agarre en las frenadas y una respuesta más progresiva en el tope del recorrido.&lt;br&gt;&lt;br&gt;El depósito de gasolina crece en tamaño, siendo en 2020 de 9,5 litros.&lt;br&gt;&lt;br&gt;Otros cambios mecánicos son la modificación en el sistema de refrigeración, con los conductos integrados en el interior del chasis y con radiadores más eficientes, el manillar más ancho, la nueva disposición del escape, mayor superficie de apoyo de la pata de cabra, estriberas, guía de la cadena más larga y pedal del freno más robusto.&lt;br&gt;&lt;br&gt;En 2020, la RR 125 2T cuenta con nuevos plásticos -mejor ergonomía- y faro delantero, asiento más cómodo, portamatrículas más ligero y con las asas integradas y una instrumentación diferente.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </beta1>
+            <beta2>
+                <!--https://www.motofichas.com/marcas/beta/rr-50-enduro-sport-racing-2018-->
+                <titulo>BETA RR 50 2018</titulo>
+                <portada>../imagenes/productos/motos/beta2.jpg</portada>
+                <precio>3.188</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/beta1.jpg</imagenpr1>
+                    <titulo1>BETA RR 125 2T 2020</titulo1>
+                    <link1>beta1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/beta3.jpg</imagenpr2>
+                    <titulo2>BETA RR 125 4T LC 2018</titulo2>
+                    <link2>beta3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/beta4.jpg</imagenpr3>
+                    <titulo3>BETA RR 125 SM LC 4T 2018</titulo3>
+                    <link3>beta4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/beta5.jpg</imagenpr4>
+                    <titulo4>BETA XTRAINER 2018-2019</titulo4>
+                    <link4>beta5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Beta RR 50 ha sido totalmente renovada en 2018 para adaptarla a la normativa Euro4, manteniendo no obstante esa estética de moto grande y acabados de gran nivel que tanto gusta al público quinceañero al que va dirigida. La versión estándar es la más básica de todas y tiene una relación calidad precio muy ajustada, además de contar con detalles tales como el sistema de engrase separado, llave única para el contacto, bloqueo y tapón del depósito de gasolina y agarres para el pasajero integrados.&lt;br&gt;&lt;br&gt;El motor que mueve la RR 50 es un 2T alimentado por carburador con una caja de cambio de seis velocidades. Las suspensiones están compuestas por una horquilla concencional con barras de 37 mm de diámetro y un monoamortiguador trasero anclado directamente sobre el basculante. Un disco delantero de 260 mm y otro trasero de 220 mm componen el equipo de frenada. Las ruedas tienen unas medidas de 21" y 18" delante y detrás respectivamente.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </beta2>
+            <beta3>
+                <!--https://www.motofichas.com/marcas/beta/rr-125-4t-lc-2017-->
+                <titulo>BETA RR 125 4T LC 2018</titulo>
+                <portada>../imagenes/productos/motos/beta3.jpg</portada>
+                <precio>5.068</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/beta1.jpg</imagenpr1>
+                    <titulo1>BETA RR 125 2T 2020</titulo1>
+                    <link1>beta1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/beta2.jpg</imagenpr2>
+                    <titulo2>BETA RR 50 2018</titulo2>
+                    <link2>beta2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/beta4.jpg</imagenpr3>
+                    <titulo3>BETA RR 125 SM LC 4T 2018</titulo3>
+                    <link3>beta4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/beta5.jpg</imagenpr4>
+                    <titulo4>BETA XTRAINER 2018-2019</titulo4>
+                    <link4>beta5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Beta RR 125cc LC (refrigerada por agua) es una auténtica moto de enduro perfecta para la iniciación, ya sea con carnet de moto A1 o de coche B. Más sofisticada que su hermana refrigerada por aire, no sólo el motor es completamente diferente y notablemente más potente en toda la gama de funcionamiento, también la parte ciclística y el equipamiento están un nivel por encima.&lt;br&gt;&lt;br&gt;Las suspensiones son regulables, cuenta con horquilla invertida y monoamortiguador con sistema de bieletas, el basculante de aluminio está reforzado y el bastidor ofrece una estrechez apropiada para sortear las dificultades del off-road extremo.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </beta3>
+            <beta4>
+                <!--https://www.motofichas.com/marcas/beta/rr-125-sm-lc-4t-2017-->
+                <titulo>BETA RR 125 SM LC 4T 2018</titulo>
+                <portada>../imagenes/productos/motos/beta4.jpg</portada>
+                <precio>5.068</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/beta1.jpg</imagenpr1>
+                    <titulo1>BETA RR 125 2T 2020</titulo1>
+                    <link1>beta1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/beta2.jpg</imagenpr2>
+                    <titulo2>BETA RR 50 2018</titulo2>
+                    <link2>beta2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/beta3.jpg</imagenpr3>
+                    <titulo3>BETA RR 125 4T LC 2018</titulo3>
+                    <link3>beta3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/beta5.jpg</imagenpr4>
+                    <titulo4>BETA XTRAINER 2018-2019</titulo4>
+                    <link4>beta5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Beta RR 125 LC SM es el modelo enfocado al asfalto con estilo supermotard derivado de la máquina de enduro con similar mecánica. Cuenta con un moderno motor refrigerado por agua y con electroventilador que rinde una potencia máxima de 15 CV y suspensiones y neumáticos de calidad para sacarle todo el partido a la mecánica.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </beta4>
+            <beta5>
+                <!--https://www.motofichas.com/marcas/beta/xtrainer-2018-->
+                <titulo>BETA XTRAINER 2018-2019</titulo>
+                <portada>../imagenes/productos/motos/beta5.jpg</portada>
+                <precio>6.618</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/beta1.jpg</imagenpr1>
+                    <titulo1>BETA RR 125 2T 2020</titulo1>
+                    <link1>beta1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/beta2.jpg</imagenpr2>
+                    <titulo2>BETA RR 50 2018</titulo2>
+                    <link2>beta2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/beta3.jpg</imagenpr3>
+                    <titulo3>BETA RR 125 4T LC 2018</titulo3>
+                    <link3>beta3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/beta4.jpg</imagenpr4>
+                    <titulo4>BETA RR 125 SM LC 4T 2018</titulo4>
+                    <link4>beta4.php</link4>
+                </producto4>
+                <descripcion>
+                    La Beta XTrainer era presentada en 2017 y un año más tarde recibe una serie de modificaciones, aparte de venir acompañada de una versión de 250 cc que se une a la ya existente 300, ambas con motores de 2T. La XTrainer deriva directamente del modelo de enduro, pero está enfocada a los aficionados que quieren realizar excursiones sin necesidad de grandes exigencias técnicas, ni de mantenimiento ni de coste de compra.&lt;br&gt;&lt;br&gt;Beta diseñó la Xtrainer pensando en una moto enduro dócil y manejable, ideal para los recién llegados al apasionante mundo del enduro. Estudiando la oferta del mercado, la marca llegó a la conclusión de que las dimensiones y prestaciones de los modelos actuales eran excesivos para pilotos que no posean una gran experiencia, y que era necesario crear un modelo eficaz y divertido, pero que permita sentirse cómodo sobre ella desde el primer momento.&lt;br&gt;&lt;br&gt;Por un lado, el chasis es más compacto que el de los modelos RR y tanto la horquilla de 43 mm. como el amortiguador trasero consiguen una moto más baja -altura del asiento a 910 mm- y confortable, a la vez que más manejable en cualquier condición de uso.&lt;br&gt;&lt;br&gt;Para el motor se trabajó profundamente en el motor RR 300 de 2 tiempos, a fin de suavizarlo y hacer su entrega de potencia más progresiva y controlable. Además, dispone de un práctico sistema de mezcla aceite/gasolina automático que realiza la mezcla del aceite electrónicamente en función del rendimiento del motor, resolviendo así también el a veces engorroso trabajo de preparar la mezcla.&lt;br&gt;&lt;br&gt;Si buscas descubrir e iniciarte el enduro o disfrutar de él sin excesivas exigencias, la Xtrainer puede ser una moto excelente.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </beta5>
+        </marca>
+        <marca>
+            <gasgas1>
+                <!--https://www.motofichas.com/marcas/gas-gas/ec-250-2019-->
+                <titulo>GAS GAS EC/XC 250 2019</titulo>
+                <portada>../imagenes/productos/motos/gasgas1.jpg</portada>
+                <precio>7.800</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/gasgas2.jpg</imagenpr1>
+                    <titulo1>GAS GAS EC/XC 300 2019</titulo1>
+                    <link1>gasgas2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/gasgas3.jpg</imagenpr2>
+                    <titulo2>GAS GAS EC/XC 200 2019</titulo2>
+                    <link2>gasgas3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/gasgas4.jpg</imagenpr3>
+                    <titulo3>GAS GAS ECRANGER 300 2019</titulo3>
+                    <link3>gasgas4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/gasgas5.jpg</imagenpr4>
+                    <titulo4>GAS GAS ECRANGER 200 2019</titulo4>
+                    <link4>gasgas5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Gas Gas EC 250 2019 introduce algunos cambios después de la profunda renovación realizada en 2018. Mantiene su filosofía de moto fácil de conducir, con buenas prestaciones y con una buena accesibilidad mecánica, destacando igualmente su ligereza y el arranque eléctrico. El primer cambio es en el aspecto estético, más rácing al combinar el rojo habitual de las motos gerundenses con el negro y el blanco.&lt;br&gt;&lt;br&gt;En cuanto a las mejoras recibidas en el motor, empezar por la nueva culata, con lo que se mejoran las prestaciones. Más potencia pero una entrega más lineal en todo su régimen. También se ha trabajado en la instalación eléctrica, contando la EC 250 2019 con un nuevo sistema de arranque eléctrico e incorporando un doble mapa de encendido -Seco/Mojado-.&lt;br&gt;&lt;br&gt;En la parte ciclo, los elementos que se estrenan son el manillar Neken de 28,6 mm de diámetro sin barra central y con nuevo protector y bridas, con las que se consigue una mayor rigidez. Los puños Neken son igualmente novedad en 2019. El resto de componentes son los que ya traía la versión 2018, como las suspensiones Kayaba, la bomba del embrague Magura, el escape FMF y las llantas Excel.&lt;br&gt;&lt;br&gt;La Gas Gas tiene un depósito de combustible de 10 litros y está diseñado para no molestar en la conducción. Además, su montaje y desmontaje resulta bastante sencillo, un aspecto básico para las tareas de mantenimiento. Para este fin se han rediseñado las placas laterales y el guardabarros trasero con el fin de facilitar el mantenimiento de la caja y el filtro del aire.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </gasgas1>
+            <gasgas2>
+                <!--https://www.motofichas.com/marcas/gas-gas/ec-xc-300-2019-->
+                <titulo>GAS GAS EC/XC 300 2019</titulo>
+                <portada>../imagenes/productos/motos/gasgas2.jpg</portada>
+                <precio>8.050</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/gasgas1.jpg</imagenpr1>
+                    <titulo1>GAS GAS EC/XC 250 2019</titulo1>
+                    <link1>gasgas1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/gasgas3.jpg</imagenpr2>
+                    <titulo2>GAS GAS EC/XC 200 2019</titulo2>
+                    <link2>gasgas3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/gasgas4.jpg</imagenpr3>
+                    <titulo3>GAS GAS ECRANGER 300 2019</titulo3>
+                    <link3>gasgas4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/gasgas5.jpg</imagenpr4>
+                    <titulo4>GAS GAS ECRANGER 200 2019</titulo4>
+                    <link4>gasgas5.php</link4>
+                </producto4>
+                <descripcion>
+                    Pocos cambios en la Gas Gas EC 300 2019, que ya fue profundamente renovada en 2018 después de la adquisición de la marca gerundense por Torrot. No obstante, los ingenieros han introducido algunas mejoras en el motor, como la nueva culara con la que se aumenta la potencia así como se logra una entrega más linea en toda su gama de potencia. Además, se ha incorporado un doble mapa, Seco y Mojado, para que el piloto adapte la moto a las circunstancias o a su pilotaje. La Gas Gas 300 cuenta con arranque eléctrico que en la versión 2019 ha sido optimizado y es que en 2019 se ha trabajado especialmente en la parte eléctrica de la moto, que es totalmente nueva.&lt;br&gt;&lt;br&gt;Los únicos cambios en la parte ciclo se encuentran en el nuevo manillar, de la firma Neken, que pasa a tener un diámetro de 28,6 mm y carece de barra central. Lógicamente, se ha montado un protector diferente, así como unas nuevas bridas de sujección con lo que se gana en rigidez. Los puños son igualmente nuevos y Neken, con mayor agarrre que los anteriores. Por último, las placas laterales y el guardabarros trasero se han rediselado con el objetivo de mejorar el ajuste y el acceso al filtro del aire. Y es que en Gas Gas valoran la accesibilidad mecánica, de ahí el depósito de gasolina con 10 litro de capacidad cuyo montaje y desmontaje se realiza con suma facilidad.&lt;br&gt;&lt;br&gt;Kayaba vuelve a proporcionar las suspensiones, destacando su horquilla de 48 mm de diámetro, mientras que la calidad del resto de componentes queda contrastado: escape FMF, bomba de embrague Magura, llantas Excel...&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </gasgas2>
+            <gasgas3>
+                <!--https://www.motofichas.com/marcas/gas-gas/ec-xc-200-2019-->
+                <titulo>GAS GAS EC/XC 200 2019</titulo>
+                <portada>../imagenes/productos/motos/gasgas3.jpg</portada>
+                <precio>7.690</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/gasgas1.jpg</imagenpr1>
+                    <titulo1>GAS GAS EC/XC 250 2019</titulo1>
+                    <link1>gasgas1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/gasgas2.jpg</imagenpr2>
+                    <titulo2>GAS GAS EC/XC 300 2019</titulo2>
+                    <link2>gasgas2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/gasgas4.jpg</imagenpr3>
+                    <titulo3>GAS GAS ECRANGER 300 2019</titulo3>
+                    <link3>gasgas4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/gasgas5.jpg</imagenpr4>
+                    <titulo4>GAS GAS ECRANGER 200 2019</titulo4>
+                    <link4>gasgas5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Gas Gas EC 200 vuelve al catálogo de la marca española después de haber estado fuera varios años. Se trata de un modelo muy versátil, enfocado a un público que busca la agilidad de una 125 pero con motor más fácil de llevar y con más medios y bajos. Se beneficia de todas las mejoras introducidas por Gas Gas en 2019, como la nueva instalación eléctrica, el doble mapa de encendido -Seco/Mojado- y los ajustes para conseguir una entrega de potencia lineal y suave. La puesta en marcha de su motor se realiza a pedal o a patada.&lt;br&gt;&lt;br&gt;También monta la EC 200 2019 el nuevo manillar Neken que las Gas Gas de enduro estrenan este año, cuya barra de 28,6 mm y sus bridas logran una gran rigidez. El resto de componentes son los conocidos en la firma gerundense, destacando las suspensiones Kayaba multirregulables y diseñadas específicamente para este modelo, las llantas Excel, el escape FMF, la bomba del embrague Magura...&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </gasgas3>
+            <gasgas4>
+                <!--https://www.motofichas.com/marcas/gas-gas/ecranger-300-2019-->
+                <titulo>GAS GAS ECRANGER 300 2019</titulo>
+                <portada>../imagenes/productos/motos/gasgas4.jpg</portada>
+                <precio>7.190</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/gasgas1.jpg</imagenpr1>
+                    <titulo1>GAS GAS EC/XC 250 2019</titulo1>
+                    <link1>gasgas1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/gasgas2.jpg</imagenpr2>
+                    <titulo2>GAS GAS EC/XC 300 2019</titulo2>
+                    <link2>gasgas2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/gasgas3.jpg</imagenpr3>
+                    <titulo3>GAS GAS EC/XC 200 2019</titulo3>
+                    <link3>gasgas3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/gasgas5.jpg</imagenpr4>
+                    <titulo4>GAS GAS ECRANGER 200 2019</titulo4>
+                    <link4>gasgas5.php</link4>
+                </producto4>
+                <descripcion>
+                    Las Gas Gas ECRanger 300 es una enduro light ideal para los aficionados más tranquilos que utilizan su moto para excursiones off-road sin excesivas complicaciones. Toma como base la EC 300 de enduro, con la que comparte gran parte de los componentes, como el chasis. Los principales cambios se encuentran en el motor, en donde se ha cambiado el cilindroo y la culata para conseguir una entrega más llena a bajo régimen y menos potencia en alta, con una respuesta más suave para poder mantener el control con mayor facilidad. En la parte ciclo, la principal diferencia con la montura de enduro se encuentra en su menor altura del asiento, unos 4 centímetros, gracias al recorte en el recorrido de las suspensiones. El foco de atención de Gas Gas ha sido otorgar al usuario una moto más amigable y cómoda, de ahí el montaje de un asiento con un acolchado más cómodo y el arranque eléctrico como única forma de poner la moto en marcha.&lt;br&gt;&lt;br&gt;Las suspensiones son Kayaba, con una horquilla invertida de 46 mm de diámetro y cartucho abierto, delante; y un monoamortiguador trasero de recorrido más corto que el de la EC. Ambos componentes son regulables. Los discos de frenos son NG, con pinzas Braktex desarrollados específicamente para la ECRanger. Las llantas de aluminio están fabricadas por Excel y calzan neumáticos VeeRubber.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </gasgas4>
+            <gasgas5>
+                <!--https://www.motofichas.com/marcas/gas-gas/ecranger-200-2019-->
+                <titulo>GAS GAS ECRANGER 200 2019</titulo>
+                <portada>../imagenes/productos/motos/gasgas5.jpg</portada>
+                <precio>6.990</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/gasgas1.jpg</imagenpr1>
+                    <titulo1>GAS GAS EC/XC 250 2019</titulo1>
+                    <link1>gasgas1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/gasgas2.jpg</imagenpr2>
+                    <titulo2>GAS GAS EC/XC 300 2019</titulo2>
+                    <link2>gasgas2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/gasgas3.jpg</imagenpr3>
+                    <titulo3>GAS GAS EC/XC 200 2019</titulo3>
+                    <link3>gasgas3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/gasgas4.jpg</imagenpr4>
+                    <titulo4>GAS GAS ECRANGER 300 2019</titulo4>
+                    <link4>gasgas4.php</link4>
+                </producto4>
+                <descripcion>
+                    Las Gas Gas ECRanger 200 es una enduro de carácter tranquilo idónea para aficionados al off-road que huyen del enduro extremo pero sin renunciar a unas buenas prestaciones. La moto comparte gran parte de sus elementos con la versión de enduro, la EC 200, pero los ingenieros de la marca gerundense han introducido un nuevo cilindro y una nueva culata con el objetivo de alcanzar una cifra de potencia más alta en el bajo régimen, además de suavizar la entrega de potencia en alta. El fin no es otro que la de dar al usuario una moto más sencilla de pilotar, para lo que también se ha recortado el recorrido de las suspensiones, permitiendo llegar mejor al suelo a los pilotos de menor talla.&lt;br&gt;&lt;br&gt;Los componentes empleados en la parte ciclo son de primera calidad. La horquilla invertida es Kayaba, con un recorrido de 270 mm, la misma marca que el de monoamortiguador trasero. Ambos elementos permiten regulación. Los frenos de disco los firma NG y están mordidos por unas pinzas Braktec desarrolladas exclusivamente para este modelo.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </gasgas5>
+        </marca>
+        <marca>
+            <honda1>
+                <!--https://www.motofichas.com/marcas/honda/crf250r-2020-->
+                <titulo>HONDA CRF250R 2020</titulo>
+                <portada>../imagenes/productos/motos/honda1.jpg</portada>
+                <precio>8.950</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/honda2.jpg</imagenpr1>
+                    <titulo1>HONDA CRF450R 2020</titulo1>
+                    <link1>honda2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/honda3.jpg</imagenpr2>
+                    <titulo2>HONDA CRF125F 2018</titulo2>
+                    <link2>honda3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/honda4.jpg</imagenpr3>
+                    <titulo3>HONDA CRF110F</titulo3>
+                    <link3>honda4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/suzuki3.jpg</imagenpr4>
+                    <titulo4>SUZUKI RM-Z 250 2017</titulo4>
+                    <link4>suzuki3.php</link4>
+                </producto4>
+                <descripcion>
+                    La Honda CRF250R 2020 mejoras en su motor para conseguir mayor potencia y par a bajo y medio régimen, y en la parte ciclo, con un chasis y un basculante renovados y con unas medidas similares a las de la CRF450R. Además, mantiene toda la tecnología y la electrónica introducida en 2019.&lt;br&gt;&lt;br&gt;Con las modificaciones introducidas en el motor, la CRF250F mejora el par y la potencia entre las 6.000 y las 10.000 rpm, alcanzando la potencia máxima a las 12.000 rpm y cortando el encendido a las 14.400 rpm, manteniendo un buen régimen sobrerregimen entre curva y curva. La mayor ganancia se produce en el medio régimen, con un 10% más de par a 8.000 rpm con lo que conseguir una conducción más fluida en cualquier condición. Los cambios internos para alcanzar estas cifras se han realizado mediante un nuevo perfil de las levas y revisando la forma de las toberas de admisión y de escape, del pistón y de la cámara de combustión. Además, la superficie del filtro del aire aumenta su tamaño mientras que el codo del escape elimina la cámara de resonancia montada en 2019.&lt;br&gt;&lt;br&gt;En cuanto a la electrónica, la CRF250R mantiene el Launch Control instalado el año pasado, con tres modos a elegir por el piloto. Además, también están disponibles tres modos de motor para adecuar la respuesta de su potente propulsor a las exigencias del piloto o a las condiciones de la pista. Todos estos cambios se realizan mediante los botones específicos situados en el manillar.&lt;br&gt;&lt;br&gt;El nuevo chasis es un doble viga de aluminio de séptima generación que se montó en 2019 en la CRF450R. Este nuevo bastidor mantiene la rigidez del anterior pero es más ligero, estable y preciso en curva. El basculante, por su parte, es igualmente idéntico al que se utiliza en la 450. Todo esto hace que respecto a la CRF250R se varíe la geometría de la dirección y la distancia entre ejes.&lt;br&gt;&lt;br&gt;No hay cambio en las suspensiones, manteniéndose la misma horquilla Showa con barras de 49 mm de diámetro y muelles helicoidales y con un amortiguador trasero de la misma marca, ambos componentes totalmente ajustables.&lt;br&gt;&lt;br&gt;Otros componentes que monta la CRF250R son las llantas DID de aluminio anodizado en negro, el manillar Renthal Fatbar flex, el depósito de gasolina fabricado en titanio y los neumáticos Dunlop Geomax MX3S.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </honda1>
+            <honda2>
+                <!--https://www.motofichas.com/marcas/honda/crf450r-2020-->
+                <titulo>HONDA CRF250R 2020</titulo>
+                <portada>../imagenes/productos/motos/honda2.jpg</portada>
+                <precio>9.550</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/honda1.jpg</imagenpr1>
+                    <titulo1>HONDA CRF450R 2020</titulo1>
+                    <link1>honda1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/honda3.jpg</imagenpr2>
+                    <titulo2>HONDA CRF125F 2018</titulo2>
+                    <link2>honda3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/honda4.jpg</imagenpr3>
+                    <titulo3>HONDA CRF110F</titulo3>
+                    <link3>honda4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/ktm4.jpg</imagenpr4>
+                    <titulo4>KTM 65 SX 2020</titulo4>
+                    <link4>ktm4.php</link4>
+                </producto4>
+                <descripcion>
+                    La Honda CRF450R es la montura más potente dentro de las crosseras de la marca japonesa, una montura que deriva de las empleadas en el Mundial de MX1 y que en 2019 recibe más mejoras electrónicas.&lt;br&gt;&lt;br&gt;Pocos cambios necesitaba la CRF450R 2020 para mantenerse en lo más alto, pues es un modelo que cambió radicalmente en 2017, que en 2018 recibía el arranque eléctrico y que en 2019 añadía control de salida con tres modos, además de aumentar su potencia y par máximos. Con la introducción del HSTC, el control de par de Honda, el piloto cuenta con tres modos de nivel de gestión del empuje del motor. Este sistema, que no cuenta con sensor de velocidad en la rueda trasera, mantiene el tacto del acelerador mientras controla la potencia. Es un sistema que se maneja a través de un botón situado en el manillar, se visualiza por luces de LED y se puede desconectar. Mediante otros dos botones, y también con luces del LED, el piloto puede jugar con los tres modos del Launch Control y de los modos de motor.&lt;br&gt;&lt;br&gt;No hay modificaciones sustanciales en la parte ciclo pues en 2019 se aligeró el chasis y el basculante. Se mantiene la horquilla Showa con barras de 49 mm de diámetro con muelles de acero y cuyos reglajes han sido revisados. Destacar el empleo de un nuevo manillar Renthal cónico, ajustable hacia delante y hacia atrás sobre la tija superior. El depósito de gasolina está fabricado en titanio y tiene una capacidad de 6,3 litros.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </honda2>
+            <honda3>
+                <!--https://www.motofichas.com/marcas/honda/crf125f-->
+                <titulo>HONDA CRF125F 2018</titulo>
+                <portada>../imagenes/productos/motos/honda3.jpg</portada>
+                <precio>2.870</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/honda1.jpg</imagenpr1>
+                    <titulo1>HONDA CRF450R 2020</titulo1>
+                    <link1>honda1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/honda2.jpg</imagenpr2>
+                    <titulo2>HONDA CRF250R 2020</titulo2>
+                    <link2>honda2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/honda4.jpg</imagenpr3>
+                    <titulo3>HONDA CRF110F</titulo3>
+                    <link3>honda4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husqvarna2.jpg</imagenpr4>
+                    <titulo4>HUSQVARNA FC 250 2020</titulo4>
+                    <link4>husqvarna2.php</link4>
+                </producto4>
+                <descripcion>
+                    La Honda CRF125F es una evolución de la mítica CRF100F, una moto pensada para que los pequeños de la casa se inicien en la moto de montaña con una montura sencilla y fácil de conducir. De hecho, el comportamiento de su motor, rebosante de par a bajo régimen, es muy suave para no asustar a los jóvenes que pilotos, que sólo tendrán que centrarse de abrir gas y de jugar con su cambio de cuatro velocidades con embrague manual. El propulsor está alimentado por carburador y cuenta con arranque eléctrico.&lt;br&gt;&lt;br&gt;La CRF125F es una moto muy pequeña, con una altura al suelo desde el asiento de 735 mm -hay una versión con ruedas altas que sitúan el asiento a 785 mm- con lo que se recomienda su uso a niños con una edad superior a los 10 años. Para otros más pequeños todavía, Honda ofrece su modelo CRF110F con cambio de cuatro marchas sin embrague. Las suspensiones son igualmente muy sencillas, contando la Honda con una horquilla convencional de 31 mm de diámetro y un amortiguador trasero que funciona sobre el basculante de acero.&lt;br&gt;&lt;br&gt;En el tren delantero se ha montado una rueda de 17" que va acompañada de una de 14" detrás. Las ruedas de la versión grande tienen una medida de 19" y 16" delante y detrás, respectivamente. Ambas versiones cuentan con un disco delante y un freno de tambor detrás.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </honda3>
+            <honda4>
+                <!--https://www.motofichas.com/marcas/honda/crf110f-->
+                <titulo>HONDA CRF110F</titulo>
+                <portada>../imagenes/productos/motos/honda4.jpg</portada>
+                <precio>2.330</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/honda1.jpg</imagenpr1>
+                    <titulo1>HONDA CRF450R 2020</titulo1>
+                    <link1>honda1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/honda2.jpg</imagenpr2>
+                    <titulo2>HONDA CRF250R 2020</titulo2>
+                    <link2>honda2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/honda3.jpg</imagenpr3>
+                    <titulo3>HONDA CRF125F 2018</titulo3>
+                    <link3>honda3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/yamaha3.jpg</imagenpr4>
+                    <titulo4>YAMAHA PW50 2020</titulo4>
+                    <link4>yamaha3.php</link4>
+                </producto4>
+                <descripcion>
+                    Esta Honda de Cross infantil incorpora el clásico motor 4 tiempos de la marca con cilindro horizontal refrigerado por aire y una clindrada de 110cc, mejorando sobretodo el par sobre versiones precedentes. Dispone de arranque eléctrico y cuenta con cambio de marchas de cuatro relaciones con embrague automático, para facilitar la inciación al pilotaje, y gracias a un nuevo chasis y suspensiones más efectivas es capaz de ofrecer mayor agilidad y estabilidad. El diseño se inspira en su hermana mayor, la CRF450F.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </honda4>
+        </marca>
+        <marca>
+            <husaberg1>
+                <!--https://www.motofichas.com/marcas/husaberg/fe-250-14-->
+                <titulo>HUSABERG FE 250 ´14</titulo>
+                <portada>../imagenes/productos/motos/husaberg1.jpg</portada>
+                <precio>9.089</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husaberg2.jpg</imagenpr1>
+                    <titulo1>HUSABERG FE 390</titulo1>
+                    <link1>husaberg2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husaberg3.jpg</imagenpr2>
+                    <titulo2>HUSABERG FE 390 ´12</titulo2>
+                    <link2>husaberg3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husaberg4.jpg</imagenpr3>
+                    <titulo3>HUSABERG FE 450</titulo3>
+                    <link3>husaberg4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husaberg5.jpg</imagenpr4>
+                    <titulo4>HUSABERG FE 501 ´14</titulo4>
+                    <link4>husaberg5.php</link4>
+                </producto4>
+                <descripcion>
+                    La gama 2014 es la última de Husaberg antes de desaparecer como marca independiente. Todos los modelos de la misma reciben una nueva decoración con motivo del 25 aniversario, pero además se ha modificado su parte ciclo en apartados tan importantes como horquilla y amortiguador, ahora con más opciones de ajuste y simplificando las labores de mantenimiento. La FE 250 es sin duda el modelo que más cambios experimenta, empezando por su chasis que aumenta su rigidez torsional para absorber mejor los impactos. Además incorpora un nuevo motor de carrera más corta que ofrece mayores cifras de potencia y par, en el que se modifican aspectos como el sistema de gestión, volante de inercia, cigüeñal o cárter. El sistema de escape es, igualmente, de nueva factura.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </husaberg1>
+            <husaberg2>
+                <!--https://www.motofichas.com/marcas/husaberg/fe-390-->
+                <titulo>HUSABERG FE 390</titulo>
+                <portada>../imagenes/productos/motos/husaberg2.jpg</portada>
+                <precio>Fuera de Stock</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husaberg1.jpg</imagenpr1>
+                    <titulo1>HUSABERG FE 250 ´14</titulo1>
+                    <link1>husaberg1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husaberg3.jpg</imagenpr2>
+                    <titulo2>HUSABERG FE 390 ´12</titulo2>
+                    <link2>husaberg3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husaberg4.jpg</imagenpr3>
+                    <titulo3>HUSABERG FE 450</titulo3>
+                    <link3>husaberg4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husaberg5.jpg</imagenpr4>
+                    <titulo4>HUSABERG FE 501 ´14</titulo4>
+                    <link4>husaberg5.php</link4>
+                </producto4>
+                <descripcion>-DESCATALOGADA-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</descripcion>
+            </husaberg2>
+            <husaberg3>
+                <!--https://www.motofichas.com/marcas/husaberg/fe-390-12-->
+                <titulo>HUSABERG FE 390 ´12</titulo>
+                <portada>../imagenes/productos/motos/husaberg3.jpg</portada>
+                <precio>Fuera de Stock</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husaberg1.jpg</imagenpr1>
+                    <titulo1>HUSABERG FE 250 ´14</titulo1>
+                    <link1>husaberg1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husaberg2.jpg</imagenpr2>
+                    <titulo2>HUSABERG FE 390</titulo2>
+                    <link2>husaberg2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husaberg4.jpg</imagenpr3>
+                    <titulo3>HUSABERG FE 450</titulo3>
+                    <link3>husaberg4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husaberg5.jpg</imagenpr4>
+                    <titulo4>HUSABERG FE 501 ´14</titulo4>
+                    <link4>husaberg5.php</link4>
+                </producto4>
+                <descripcion>-DESCATALOGADA-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</descripcion>
+            </husaberg3>
+            <husaberg4>
+                <!--https://www.motofichas.com/marcas/husaberg/fe-450-->
+                <titulo>HUSABERG FE 450</titulo>
+                <portada>../imagenes/productos/motos/husaberg5.jpg</portada>
+                <precio>Fuera de Stock</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husaberg1.jpg</imagenpr1>
+                    <titulo1>HUSABERG FE 250 ´14</titulo1>
+                    <link1>husaberg1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husaberg2.jpg</imagenpr2>
+                    <titulo2>HUSABERG FE 390</titulo2>
+                    <link2>husaberg2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husaberg3.jpg</imagenpr3>
+                    <titulo3>HUSABERG FE 390 ´12</titulo3>
+                    <link3>husaberg3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husaberg5.jpg</imagenpr4>
+                    <titulo4>HUSABERG FE 501 ´14</titulo4>
+                    <link4>husaberg5.php</link4>
+                </producto4>
+                <descripcion>-DESCATALOGADA-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</descripcion>
+            </husaberg4>
+            <husaberg5>
+                <!--https://www.motofichas.com/marcas/husaberg/fe-501-14-->
+                <titulo>HUSABERG FE 501 ´14</titulo>
+                <portada>../imagenes/productos/motos/husaberg5.jpg</portada>
+                <precio>9.746</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husaberg1.jpg</imagenpr1>
+                    <titulo1>HUSABERG FE 250 ´14</titulo1>
+                    <link1>husaberg1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husaberg2.jpg</imagenpr2>
+                    <titulo2>HUSABERG FE 390</titulo2>
+                    <link2>husaberg2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husaberg3.jpg</imagenpr3>
+                    <titulo3>HUSABERG FE 390 ´12</titulo3>
+                    <link3>husaberg3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husaberg4.jpg</imagenpr4>
+                    <titulo4>HUSABERG FE 450</titulo4>
+                    <link4>husaberg4.php</link4>
+                </producto4>
+                <descripcion>
+                    La gama 2014 es la última de Husaberg antes de desaparecer como marca independiente. Todos los modelos de la misma reciben una nueva decoración con motivo del 25 aniversario, pero además se ha modificado su parte ciclo en apartados tan importantes como horquilla y amortiguador, ahora con más opciones de ajuste y simplificando las labores de mantenimiento. La mítica FE 510 representa el "tope de gama" dentro de la marca, e introduce mejoras respecto a su versión precedente en el motor y sistema de alimentación.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </husaberg5>
+        </marca>
+        <marca>
+            <husqvarna1>
+                <!--https://www.motofichas.com/marcas/husqvarna/tc-125-2020-->
+                <titulo>HUSQVARNA TC 125 2020</titulo>
+                <portada>../imagenes/productos/motos/husqvarna1.jpg</portada>
+                <precio>8.039</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husqvarna2.jpg</imagenpr1>
+                    <titulo1>HUSQVARNA FC 250 2020</titulo1>
+                    <link1>husqvarna2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husqvarna3.jpg</imagenpr2>
+                    <titulo2>HUSQVARNA TC 85 2020</titulo2>
+                    <link2>husqvarna3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husqvarna4.jpg</imagenpr3>
+                    <titulo3>HUSQVARNA FC 450 2020</titulo3>
+                    <link3>husqvarna4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husqvarna5.jpg</imagenpr4>
+                    <titulo4>HUSQVARNA TC 50 2020</titulo4>
+                    <link4>husqvarna5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Husqvarna TC 125 es una impresionante moto para los que se inician en el motocross, así como para los que dan el salto desde las gamas infantiles y para aficionados que quieren disfrutar de un motor potente -40 CV- y rabioso, que apenas recibe mejoras en 2020 tras haber estrenado en 2019 una nueva caja de cambios de seis velocidades fabricada por PANKL. Destaca este propulsor por su facilidad de uso gracias a su amplia banda de potencia a cualquier régimen. La alimentación se realiza mediante un carburador Mikuni TMX de 38 mm.&lt;br&gt;&lt;br&gt;Tampoco hay cambios en la parte ciclo que era renovada en 2019 con el estreno de un nuevo chasis, el cual era diseñado para lograr una mayor estabilidad a alta velocidad, así como una mejor absorción a los impactos. El subchasis también se incorporó en 2019 fabricado en dos piezas, una de poliamida y otra de carbobo, y con el que se logra reducir el peso en 250 g en comparación con el anterior.&lt;br&gt;&lt;br&gt;En las suspensiones sólo se han tocado los ajustes para adaptarlas al nuevo chasis. Sigue por tanto montando la horquilla neumática WP XACT AER 48 de tipo dividido y de fácil regulación mediante la válvula de aire, y el amortiguador WP DCC con nuevo pistón.&lt;br&gt;&lt;br&gt;Por último, destacar el montaje de un manillar Pro Taper con mejor resistencia a la fatiga, que se une al resto de componentes de gran calidad, como el embrague hidráulico y frenos Magura, las estriberas autolimpiables y la caja del filtro del aire, cuya limpieza y mantenimiento no requieren de herramientas.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </husqvarna1>
+            <husqvarna2>
+                <!--https://www.motofichas.com/marcas/husqvarna/fc-250-2020-->
+                <titulo>HUSQVARNA FC 250 2020</titulo>
+                <portada>../imagenes/productos/motos/husqvarna2.jpg</portada>
+                <precio>9.699</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husqvarna1.jpg</imagenpr1>
+                    <titulo1>HUSQVARNA TC 125 2020</titulo1>
+                    <link1>husqvarna1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husqvarna3.jpg</imagenpr2>
+                    <titulo2>HUSQVARNA TC 85 2020</titulo2>
+                    <link2>husqvarna3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husqvarna4.jpg</imagenpr3>
+                    <titulo3>HUSQVARNA FC 450 2020</titulo3>
+                    <link3>husqvarna4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husqvarna5.jpg</imagenpr4>
+                    <titulo4>HUSQVARNA TC 50 2020</titulo4>
+                    <link4>husqvarna5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Husqvarna FC 250 es la 4T más ligera del catálogo de cross de la marca sueca. Se trata de una moto realmente potente -46 CV- dotada de arranque eléctrico, dos mapas de control seleccionables desde el manillar, control de tracción y control de salidas. La batería para poder arrancar con botón es de ion-litio, lo que garantiza un peso reducido.&lt;br&gt;&lt;br&gt;No ha recibido cambios en 2020 una vez que era renova da en 2019 al recibir un chasis, más ligero y rígido que el anterior, y pintado en azul al polvo. Los beneficios del mismo se encuentran en la mejor absorción de los impactos y en la mayor estabilidad en recta a alta velocidad. También se añadía el añoo pasado un nuevo subchasis fabricado en poliamida y fibra de carbono, también más rígido que el anterior, y con mejor ergonomía.&lt;br&gt;&lt;br&gt;Las suspensiones tampoco han registrado novedades esta temporada y se sigue contando con una horquilla WP XACT AER 48 de fácil regulación y con una barra neumática y otra hidráulica. El amortiguador es también WP y completamente ajustable. Sin novedad igualmente en los frenos, con los componentes Magura que se incorporaron ya en 2018.&lt;br&gt;&lt;br&gt;En cuanto a los acabados, la Husqvarna cuenta con grandes componentes, como el manillar Pro Taper, los puños ODI lock-on de montaje sin pegamento o las pletinas de dirección mecanizadas con sistema elástico de amortiguación para reducir las vibraciones.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </husqvarna2>
+            <husqvarna3>
+                <!--https://www.motofichas.com/marcas/husqvarna/tc-85-2020-->
+                <titulo>HUSQVARNA TC 85 2020</titulo>
+                <portada>../imagenes/productos/motos/husqvarna3.jpg</portada>
+                <precio>5.799</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husqvarna1.jpg</imagenpr1>
+                    <titulo1>HUSQVARNA TC 125 2020</titulo1>
+                    <link1>husqvarna1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husqvarna2.jpg</imagenpr2>
+                    <titulo2>HUSQVARNA FC 250 2020</titulo2>
+                    <link2>husqvarna2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husqvarna4.jpg</imagenpr3>
+                    <titulo3>HUSQVARNA FC 450 2020</titulo3>
+                    <link3>husqvarna4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husqvarna5.jpg</imagenpr4>
+                    <titulo4>HUSQVARNA TC 50 2020</titulo4>
+                    <link4>husqvarna5.php</link4>
+                </producto4>
+                <descripcion>
+                    Pocos cambios en la Husqvarna TC 85 de cross después de que en 2018 se renovara por completo. Disponible en dos tamaños de ruedas -19/16" y 17/14"- la HVA mantiene el chasis de acero diseñado por WP Performance y el subchasis, de alumio que ayudan a centrar las masas. De aluminio es igualmente el basculante, fabricado en una sola pieza y con las marcas de ajuste de la tensión de la cadena visibles desde arriba, para facilitar el mantenimiento. Para facilitar en las tareas mecánicas encontramos una caja del filtro de fácil acceso y sin necesidad de usar herramientas, cuyo mantenimiento se realiza de manera sencilla gracias al diseño del filtro Twin Air y de su soporte, el cual dispone de un sistema a prueba de fallos para su colocación, de manera que siempre queda bien colocado.&lt;br&gt;&lt;br&gt;La parte ciclo se completa con unas suspensiones de primer nivel. La horquilla es una WP XACT AER de 43 mm de diámetro, con el mismo sistema utilizado en las motos de mayor cilindrada, es decir, de aire en la barra izquierda y de aceite en la barra derecha. El amortiguador es un WP Xplor sin bieletas. En el tren delantero encontramos un disco wave de 240 mm de diámetro, mordido por una pinza de cuatro pistones, siendo de 210 mm el disco trasero -pinza de doble pistón-. Por último, las ruedas empleadas son unas Excel anodizadas en negro y bujes mecanizados, y calzadas por neumáticos Maxxis.&lt;br&gt;&lt;br&gt;Uno de los principales cambios introducidos en 2018 y que se mantiene en 2020 es el motor, más potente y más ligero que el anterior. También se añadió un nuevo el embrague de diafragma en vez del helicodal utilizado hasta entonces. Esta nueva tecnología supone un ahorro de peso y una mayor fiabilidad, siendo su accionamiento igualmente hidráulico. De nueva factura es también la válvula de escape, que controla tanto la válvula como la lumbrera secundaria de escape, con lo que se consigue una mayor control de la potencia especialmente en la banda media de utilización del propulsor. Todos estos cambios van acompañados del escape, perfectamente adaptado al motor, y al que se suma un nuevo silencioso más corto que el anterior.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </husqvarna3>
+            <husqvarna4>
+                <!--https://www.motofichas.com/marcas/husqvarna/fc-450-2020-->
+                <titulo>HUSQVARNA FC 450 2020</titulo>
+                <portada>../imagenes/productos/motos/husqvarna4.jpg</portada>
+                <precio>10.340</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husqvarna1.jpg</imagenpr1>
+                    <titulo1>HUSQVARNA TC 125 2020</titulo1>
+                    <link1>husqvarna1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husqvarna2.jpg</imagenpr2>
+                    <titulo2>HUSQVARNA FC 250 2020</titulo2>
+                    <link2>husqvarna2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husqvarna3.jpg</imagenpr3>
+                    <titulo3>HUSQVARNA TC 85 2020</titulo3>
+                    <link3>husqvarna3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husqvarna5.jpg</imagenpr4>
+                    <titulo4>HUSQVARNA TC 50 2020</titulo4>
+                    <link4>husqvarna5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Husqvarna FC 450 es la una moto potente del catálogo de cross de la marca sueca con sus casi 65 CV, además de ser muy ágil y manejable al mismo tiempo. En 2020 apenas recibe cambios después de todas las mejoras introducidas en 2019, cuando se estrenó una nueva culata.&lt;br&gt;&lt;br&gt;Para gestionar la potencia de su motor se cuenta con la ayuda del control de tracción, con la que se logra un mayor control en cualquier situación, especialmente con barro. Otro dispositivo que equipa la FC 450 de serie es el "launch control" o dispositivo para salidas que se selecciona por control remoto a través de un botón situado en el manillar y que evita que la moto se descontrole al abrir gas en las salidas.&lt;br&gt;&lt;br&gt;El carácter rácing de este modelo se aprecia en detalles como el del acceso al filtro del aire, sin necesidad de herramientas. El embrague es un DDS con un solo muelle de diafragma de acero en vez de los tradicionales muelles helicoidales, el cual integra un sistema de amortiguación para mejorar la tracción y aumentar la durabilidad. La campana de embrague está mecanizada en una sola pieza de acero, lo que permite el uso de discos más finos del mismo material con lo que se logra unas dimensiones más compactas. El accionamiento es mediante un equipo hidráulico de Magura.&lt;br&gt;&lt;br&gt;En la parte ciclo tampoco se aprecian cambios en una moto que estrenó un chasis el año pasado, un bastidor que ofrece una gran estabilidad en recta y una inmejorable absorción de los impactos. El subchasis está fabricado en fibra de carbono y poliamida, y realizado en dos piezas, con lo que se consigue ahorrar peso.&lt;br&gt;&lt;br&gt;Se mantiene la horquilla WP XACT AER 48 con funcionamiento mediante aire y aceite, aunque con nuevos parámetros para adaptarla al nuevo chasis. Permite todo tipo de regulación, mientras que en su parte superior se han colocado unas tijas de CNC con sistema integrado de amortiguación con gomas, que reducen la fatiga y permiten colocar el manillar en tres posiciones. El monoamortiguador posterior es igualmente WP y multirregulable. Los frenos son Magura.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </husqvarna4>
+            <husqvarna5>
+                <!--https://www.motofichas.com/marcas/husqvarna/tc-50-2020-->
+                <titulo>HUSQVARNA TC 50 2020</titulo>
+                <portada>../imagenes/productos/motos/husqvarna5.jpg</portada>
+                <precio>3.999</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/husqvarna1.jpg</imagenpr1>
+                    <titulo1>HUSQVARNA TC 125 2020</titulo1>
+                    <link1>husqvarna1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/husqvarna2.jpg</imagenpr2>
+                    <titulo2>HUSQVARNA FC 250 2020</titulo2>
+                    <link2>husqvarna2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/husqvarna3.jpg</imagenpr3>
+                    <titulo3>HUSQVARNA TC 85 2020</titulo3>
+                    <link3>husqvarna3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/husqvarna4.jpg</imagenpr4>
+                    <titulo4>HUSQVARNA FC 450 2020</titulo4>
+                    <link4>husqvarna4.php</link4>
+                </producto4>
+                <descripcion>
+                    La Husqvarna TC 50 es una gran moto para los pilotos más pequeños, los que se inician en el mundo del motocross y requieren una una montura similar a la que utlizan los pilotos más mayores. La principal característica de la TC 50 es el uso de embrague automático, que permite a los más inexpertos preocuparse únicamente por la conducción y olvidarse de la caja de cambios y del embrague.&lt;br&gt;&lt;br&gt;El motor es de dos tiempos y se ofrece un limitador para fijar su potencia en 5,5 CV, fundamental para los más pequeños. Las suspensiones y los frenos son de primer nivel. La horquilla de la TC 50 es una WP XACT AER 35, con la botella izquierda de aire completamente regulable, al igual que su monoamortiguador trasero, igualmente WP. El recorrido de las suspensiones es de 205 mm y 185 mm delante y detrás, respectivamente.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </husqvarna5>
+        </marca>
+        <marca>
+            <kawasaki1>
+                <!--https://www.motofichas.com/marcas/kawasaki/kx250f-2020-->
+                <titulo>KAWASAKI KX250F 2020</titulo>
+                <portada>../imagenes/productos/motos/kawasaki1.jpg</portada>
+                <precio>8.499</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/kawasaki2.jpg</imagenpr1>
+                    <titulo1>KAWASAKI KX450F 2019</titulo1>
+                    <link1>kawasaki2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/kawasaki3.jpg</imagenpr2>
+                    <titulo2>KAWASAKI KX450F 2018</titulo2>
+                    <link2>kawasaki3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/kawasaki4.jpg</imagenpr3>
+                    <titulo3>KAWASAKI KX450F 2017</titulo3>
+                    <link3>kawasaki4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/kawasaki5.jpg</imagenpr4>
+                    <titulo4>KAWASAKI KX450F</titulo4>
+                    <link4>kawasaki5.php</link4>
+                </producto4>
+                <descripcion>
+                    Kawasaki renueva su KX250F después de un par de años sin apenas cambios en su pequeña 4T de motocross. Los cambios introducidos afectan al motor, ahora más potente, y a la parte ciclo.&lt;br&gt;&lt;br&gt;El nuevo cilindro de la KX250F tiene mayor diámetro pero menor carrera lo que permite unas subidas de vuelta más fulgurantes, que es uno de los objetivos de esta edición. De hecho, el aumento de potencia anunciado se nota especialmente a partir de las 10.000 rpm. Y es que Kawasaki ha aprovechado su experiencia en el Mundial de Superbike para aplicar algunas soluciones técnicas que ya se incorporaron en la KX450F de 2019. También se ha incrementado el cuerpo del acelerador, que pasa a ser de 44 mm por los 43 del anterior. Por otro lado, hay otros elementos que no varían, el sistema de inyectores dobles -la única moto de cross de serie que lo incorpora- y que garantiza una entrega más suave y las distintas ayudas electrónicas, como el control de salida -launch control-, el cual ha sido desarrollado siguiendo las especificaciones de los pilotos oficiales del AMA,y los tres mapas de motor seleccionables.&lt;br&gt;&lt;br&gt;La parte ciclo también se ha renovado en profundidad, empezando por el chasis de perimetral del aluminio, que ahora ofrece más rigidez que el anterior. Estrena una horquilla KYB con barras de 48 mm con la que se logra una respuesta más suave y mayor firmeza a la hora de recepcionar los saltos. El amortiguador trasero, KYB iguamente, cuenta con un renovado sistema Uni Track con el que se incrementa el control y la precisión. Por último, la frenada ha mejorado notablemente gracias al disco trasero de mayor diámetro -250 mm- que se une al de 270 mm delantero, el cual recibe nuevas pastillas.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </kawasaki1>
+            <kawasaki2>
+                <!--https://www.motofichas.com/marcas/kawasaki/kx450f-2019-->
+                <titulo>KAWASAKI KX450F 2019</titulo>
+                <portada>../imagenes/productos/motos/kawasaki2.jpg</portada>
+                <precio>9.399</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/kawasaki1.jpg</imagenpr1>
+                    <titulo1>KAWASAKI KX250F 2020</titulo1>
+                    <link1>kawasaki1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/kawasaki3.jpg</imagenpr2>
+                    <titulo2>KAWASAKI KX450F 2018</titulo2>
+                    <link2>kawasaki3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/kawasaki4.jpg</imagenpr3>
+                    <titulo3>KAWASAKI KX450F 2017</titulo3>
+                    <link3>kawasaki4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/kawasaki5.jpg</imagenpr4>
+                    <titulo4>KAWASAKI KX450F</titulo4>
+                    <link4>kawasaki5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Kawasaki KX450F 2019 se renueva por completo, siendo ahora más potente y ligera que la versión anterior. Su nuevo motor destaca por la incorporación del arranque eléctrico, un elemento imprescindible hoy día y que necesitaba la japonesa para estar a la altura de sus rivales. También estrena la KX450F un embrague hidráulico con el que se logra un accionamiento más suave y preciso. Kawasaki ofrece además un kit de conexión para configurar y elegir los mapas del motor dependiendo del circuito y de su estado.&lt;br&gt;&lt;br&gt;No hay más cambios en su interior, pues ya en 2018 se realizaron mejoras como el montaje de nuevas válculas de titanio, un árbol de levas más ligero y una caja de resonancia en el sistema de escape para conseguir más potencia a bajas revoluciones. La Kawa de MX1 cuenta con un botón en el manillar para jugar con los cuatro mapas de motor disponibles, entre los que se encuentra el control de salida que se desactiva en cuanto se introduce la tercera marcha.&lt;br&gt;&lt;br&gt;El chasis de la nueva Kawasaki KX450F es más ligero en esta versión 2019, mientras que los ingenieros japoneses han puesto especial interés en conseguir el máximo agarre en el tren delantero y la mayor tracción en la rueda trasera. Para ello se ha incorporado un eje delantero de mayor diámetro y se ha trabajado en los reglajes del amortiguador trasero. Se mantiene la horquilla Showa SFF-Air TAC con el sistema de amortiguación en el tubo izquierdo y el muelle neumático con tres cámaras de aire a presión en el tubo derecho. Se trata de una horquilla de 49 mm de diámetro que deriva de la de competición y que garantiza un peso más reducido, menos fricción y mayor posibilidades de ajustes. Las barras cuentan con revestimiento de titanio para protegerlas de la abrasión. La frenada se confía a un disco delantero de 270 mm de diámetro y a otro trasero de 250 mm.&lt;br&gt;&lt;br&gt;El manillar y las estriberas son regulables para que el piloto encuentre su postura más eficiente y cómoda encima de la moto.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </kawasaki2>
+            <kawasaki3>
+                <!--https://www.motofichas.com/marcas/kawasaki/kx450f-2018-->
+                <titulo>KAWASAKI KX450F 2018</titulo>
+                <portada>../imagenes/productos/motos/kawasaki3.jpg</portada>
+                <precio>8.699</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/kawasaki1.jpg</imagenpr1>
+                    <titulo1>KAWASAKI KX250F 2020</titulo1>
+                    <link1>kawasaki1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/kawasaki2.jpg</imagenpr2>
+                    <titulo2>KAWASAKI KX450F 2019</titulo2>
+                    <link2>kawasaki2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/kawasaki4.jpg</imagenpr3>
+                    <titulo3>KAWASAKI KX450F 2017</titulo3>
+                    <link3>kawasaki4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/kawasaki5.jpg</imagenpr4>
+                    <titulo4>KAWASAKI KX450F</titulo4>
+                    <link4>kawasaki5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Kawasaki KX450F 2018 viene cargada de mejoras en su motor, con lo que se consigue una mejor respuesta en toda su franja de potencia. Las modificaciones han afectado al cilindro, que se ha desplazado 8,5 mm hacia delante, se han montado nuevas válvulas de titanio, el árbol de levas se ha aligerado y se ha instalado una nueva caja de resonancia en el sistema de escape, logrando más potencia a bajas revoluciones y reduciendo el sonido. El mapeado del encendido se puede modificar de manera sencilla gracias a un controlador de calibración de encendido, sin necesidad de conectarlo a un ordenador. Mantiene los cuatro modos de encendido, tres mapas más el cuarto para el control de salida y que se activa mediante un botón colocado en el manillar y se desactiva cuando se introduce la tercera marcha.&lt;br&gt;&lt;br&gt;En las suspensiones destaca la horquilla Showa SFF-Air TAC, similar a la usada en competición y que tiene montado el sistema de amortiguación en el tubo izquierdo y un muelle neumático formado por tres cámaras de aire a presión en el tubo derecho. Alguna de las ventajas que esto ofrece son un peso menor, una reducción de la fricción y una amplia gama de ajustes fáciles y precisos. Las barras tienen un revestimiento de titanio de extrema dureza que las protege de la abrasión.&lt;br&gt;&lt;br&gt;La posición de conducción se puede variar al ser regulables tanto el manillar como las estriberas.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </kawasaki3>
+            <kawasaki4>
+                <!--https://www.motofichas.com/marcas/kawasaki/kx450f-2017-->
+                <titulo>KAWASAKI KX450F 2017</titulo>
+                <portada>../imagenes/productos/motos/kawasaki4.jpg</portada>
+                <precio>No declarado</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/kawasaki1.jpg</imagenpr1>
+                    <titulo1>KAWASAKI KX250F 2020</titulo1>
+                    <link1>kawasaki1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/kawasaki2.jpg</imagenpr2>
+                    <titulo2>KAWASAKI KX450F 2019</titulo2>
+                    <link2>kawasaki2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/kawasaki3.jpg</imagenpr3>
+                    <titulo3>KAWASAKI KX450F 2018</titulo3>
+                    <link3>kawasaki3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/kawasaki5.jpg</imagenpr4>
+                    <titulo4>KAWASAKI KX450F</titulo4>
+                    <link4>kawasaki5.php</link4>
+                </producto4>
+                <descripcion>
+                    Kawasaki no ha realizado importantes cambios en la KX450F, que ya los recibió el año anterior, y así los japoneses se han podido centrar en la KX250F. De cara a 2017, la principal novedad se encuentra en la reducción de peso, unos 3 kg en total, gracias al trabajo realizado en el chasis, el cual es más delgado. En la carrocería se aprecia nuevo diseño de los plásticos y la recolocación de los radiadores, además de contar con una estructura más plana del depósito de gasolina y del asiento, con lo que el piloto se mueve con más facilidad encima de la moto, quien además puede variar la posición de las estriberas en dos posiciones y la del manillar. Por último, la KX450F 2017 tiene un disco delantero de mayor diámetro (270 mm).&lt;br&gt;&lt;br&gt;No hay modificaciones en su motor, manteniendo los tres mapas de encendido, más el cuarto para el Modo de Control de Salida, el sistema que ya es común en las motos de cross y que ayuda a realizar una salida fulgurante especialmente en superficies muy resbaladizas. Este sistema fue utilizado por vez por Kawasaki en una moto de serie y se activa pulsando un botón colocado en el manillar y se desactiva cuando se introduce la tercera marcha. Estos mapas se pueden reprogramar con un kit opcional de la inyección, el cual viene con siete mapas predeterminados y no requiere de ordenador ni de batería.&lt;br&gt;&lt;br&gt;La horquilla de la KXF es una Showa SFF neumática, mucho más ligera y rígida que las convencionales de aceite, que además ofrece un funcionamiento óptimo cuando se rueda a mucha velocidad. El amortiguador trasero es igualmente de la marca Showa y ofrece todo tipo de regulación.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </kawasaki4>
+            <kawasaki5>
+                <!--https://www.motofichas.com/marcas/kawasaki/kx450f-->
+                <titulo>KAWASAKI KX450F</titulo>
+                <portada>../imagenes/productos/motos/kawasaki5.jpg</portada>
+                <precio>Fuera de Stock</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/kawasaki1.jpg</imagenpr1>
+                    <titulo1>KAWASAKI KX250F 2020</titulo1>
+                    <link1>kawasaki1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/kawasaki2.jpg</imagenpr2>
+                    <titulo2>KAWASAKI KX450F 2019</titulo2>
+                    <link2>kawasaki2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/kawasaki3.jpg</imagenpr3>
+                    <titulo3>KAWASAKI KX450F 2018</titulo3>
+                    <link3>kawasaki3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/kawasaki4.jpg</imagenpr4>
+                    <titulo4>KAWASAKI KX450F 2017</titulo4>
+                    <link4>kawasaki4.php</link4>
+                </producto4>
+                <descripcion>-DESCATALOGADA-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</descripcion>
+            </kawasaki5>
+        </marca>
+        <marca>
+            <ktm1>
+                <!--https://www.motofichas.com/marcas/ktm/125-sx-2020-->
+                <titulo>KTM 125 SX 2020</titulo>
+                <portada>../imagenes/productos/motos/ktm1.jpg</portada>
+                <precio>7.979</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/ktm2.jpg</imagenpr1>
+                    <titulo1>KTM 85 SX 2020</titulo1>
+                    <link1>ktm2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/ktm3.jpg</imagenpr2>
+                    <titulo2>KTM 50 SX 2020</titulo2>
+                    <link2>ktm3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/ktm4.jpg</imagenpr3>
+                    <titulo3>KTM 65 SX 2020</titulo3>
+                    <link3>ktm4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/ktm5.jpg</imagenpr4>
+                    <titulo4>KTM 450 SX-F 2020</titulo4>
+                    <link4>ktm5.php</link4>
+                </producto4>
+                <descripcion>
+                    La KTM 125 SX es la crossera más pequeña y compacta dentro de la gama de la marca austriaca, aparte de las infantiles. Cuenta con un potente motor de 2T que apenas pesa 17 kg y que ofrece una banda de potencia muy aprovechable en toda su franja de revoluciones, además de resultar muy económico en cuanto al mantenimiento se refiere.&lt;br&gt;&lt;br&gt;La ligereza es uno de los puntos fuertes de esta 125, en donde destaca su compacto chasis de acero que fue estrenado en el modelo de 2019 y que además ofrece un excelente un excelente equilibrio entre agilidad y estabilidad a alta velocidad. El subchasis, en cambio, es de aluminio, al igual que el basculante y que está fabricado en una sola pieza.&lt;br&gt;&lt;br&gt;Otro punto fuerte de la 125 SX son las suspensiones, un equipo WP totalmente regulable que en 2020 han sido puestas a punto. La horquilla es una ligera WP AER 48 con funciones separadas en cada botella, mientras que el amortiguador es un WP DDC desarrollado de para funcionar de manera conjunta con el chasis, el basculante con bieletas y la horquilla.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </ktm1>
+            <ktm2>
+                <!--https://www.motofichas.com/marcas/ktm/85-sx-2020-->
+                <titulo>KTM 85 SX 2020</titulo>
+                <portada>../imagenes/productos/motos/ktm2.jpg</portada>
+                <precio>5.799</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/ktm1.jpg</imagenpr1>
+                    <titulo1>KTM 125 SX 2020</titulo1>
+                    <link1>ktm1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/ktm3.jpg</imagenpr2>
+                    <titulo2>KTM 50 SX 2020</titulo2>
+                    <link2>ktm3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/ktm4.jpg</imagenpr3>
+                    <titulo3>KTM 65 SX 2020</titulo3>
+                    <link3>ktm4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/ktm5.jpg</imagenpr4>
+                    <titulo4>KTM 450 SX-F 2020</titulo4>
+                    <link4>ktm5.php</link4>
+                </producto4>
+                <descripcion>
+                    La KTM 85 SX es auténtica moto de cross escuela, el trampolín ideal para que los más jóvenes den el salto definitivo a las monturas más potentes. Se ha desarrollado a imagen y semejanza del resto de gama de cross de la marca austriaca, con una parte ciclo de primer nivel y uno de los motores más potentes de la categoría.&lt;br&gt;&lt;br&gt;Renovada por completo en 2018, en 2019 y 2020 apenas ha recibido más cambios que los habituales estéticos y ajustes en las suspensiones. Precisamente la parte ciclo es uno de los apartados más destacados, con un chasis diseñado por WP Performance Systems y fabricado en acero que ofrece un alto grado de estabilidad a alta velocidad y mucha agilidad en curvas. Es un bastidor muy ligero desarrollado para soportar el peso de adolescentes de 15 años sin ningún problema. A esto hay que sumar una horquilla WP XACT AER de funciones separadas cuya regulación se realiza de manera sencilla y rápida, y un monoamortiguador WP XACT PDS progresivo y sin bieletas. Los frenos son Formula con pinzas de anclaje radial y discos wave.&lt;br&gt;&lt;br&gt;El motor no sólo es potente, además es muy aprovechable en toda su banda de revoluciones. Es un propulsor estrenado hace dos años el cual resulta muy ligero y que ha sido fabricado siguiendo los mismos estándares de calidad del resto de la gama de cross.&lt;br&gt;&lt;br&gt;La KTM 85 SX se ofrece con dos medidas de ruedas -19"/16" y 17"/14"- siendo el mismo precio para las dos versiones.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </ktm2>
+            <ktm3>
+                <!--https://www.motofichas.com/marcas/ktm/50-sx-2020-->
+                <titulo>KTM 50 SX 2020</titulo>
+                <portada>../imagenes/productos/motos/ktm3.jpg</portada>
+                <precio>3.999</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/ktm1.jpg</imagenpr1>
+                    <titulo1>KTM 125 SX 2020</titulo1>
+                    <link1>ktm1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/ktm2.jpg</imagenpr2>
+                    <titulo2>KTM 85 SX 2020</titulo2>
+                    <link2>ktm2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/ktm4.jpg</imagenpr3>
+                    <titulo3>KTM 65 SX 2020</titulo3>
+                    <link3>ktm4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/ktm5.jpg</imagenpr4>
+                    <titulo4>KTM 450 SX-F 2020</titulo4>
+                    <link4>ktm5.php</link4>
+                </producto4>
+                <descripcion>
+                    La KTM 50 SX es la moto perfecta para introducirse en el off-road, diseñada para los pilotos más jóvenes -de 4 a 10 años y hasta una altura de 130 cm- y construida con materiales de alta calidad. Su poderoso motor de 50 cc 2T de refrigeración líquida garantiza una gran aceleración pero siempre de manera controlable gracias en parte al uso de embrague automático multidisco centrífugo, con lo que resulta muy fácil de usar por parte de los niños además de poderse adaptar al piloto y al circuito en poco tiempo y sin herramientas especiales. Opcionalmente se ofrece un kit de reducción de potencia para los más pequeños.&lt;br&gt;&lt;br&gt;Se trata de una moto muy ligera equipada con un chasis de tubos de acero que facilita el paso por curva además de conseguir una gran estabilidad en recta. En este sentido son de gran ayuda las suspensiones, formadas por una horquilla WP AER 35 con barras de 35 mm, recorrido de 205 mm y regulable mediante una simple bomba de aire; y un monoamortiguador trasero sin bieletas e igualmente completamente regulable. Los frenos hidráulicos -disco en ambas ruedas- son de la marca Formula y tienen forma lobulada. Las ruedas tienen un tamaño de 12" la delantera y de 10" la trasera.&lt;br&gt;&lt;br&gt;Al igual que el resto de modelos de la gama de cross de KTM, la pequeña 50 emplea un manillar Renthal de aluminio, adhesivos de alta calidad y chasis pintado en naranja como las motos oficiales.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </ktm3>
+            <ktm4>
+                <!--https://www.motofichas.com/marcas/ktm/65-sx-2020-->
+                <titulo>KTM 65 SX 2020</titulo>
+                <portada>../imagenes/productos/motos/ktm4.jpg</portada>
+                <precio>4.850</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/ktm1.jpg</imagenpr1>
+                    <titulo1>KTM 125 SX 2020</titulo1>
+                    <link1>ktm1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/ktm2.jpg</imagenpr2>
+                    <titulo2>KTM 85 SX 2020</titulo2>
+                    <link2>ktm2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/ktm3.jpg</imagenpr3>
+                    <titulo3>KTM 50 SX 2020</titulo3>
+                    <link3>ktm3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/ktm5.jpg</imagenpr4>
+                    <titulo4>KTM 450 SX-F 2020</titulo4>
+                    <link4>ktm5.php</link4>
+                </producto4>
+                <descripcion>
+                    La KTM 65 SX ocupa el segundo escalón dentro de la gama de acceso al off-road. Está enfocada a pilotos de entre 8 y 12 años -hasta 160 cm de altura- y cuenta con materiales de gran calidad, en especial su increíble horquilla WP AER 35 totalmente regulable de manera sencilla con una bomba de aire. El motor es de dos tiempos con un cambio de seis velocidades y un embrague hidráulico, de la marca Formula, que facilita su accionamiento a los pilotos más pequeños.&lt;br&gt;&lt;br&gt;En la parte ciclo, además de la ya citada horquilla WP, destaca el empleo del chasis de tubos de acero de color naranja -como el de las motos oficiales- y el también ligero basculante de aluminio al que se ancla de manera directa un amortiguador WP multirregulable con 270 mm de recorrido. La frenada está asegurada gracias a las pinzas de cuatro pistones y a los discos tipo wave.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </ktm4>
+            <ktm5>
+                <!--https://www.motofichas.com/marcas/ktm/450-sx-f-2020-->
+                <titulo>KTM 450 SX-F 2020</titulo>
+                <portada>../imagenes/productos/motos/ktm5.jpg</portada>
+                <precio>10.240</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/ktm1.jpg</imagenpr1>
+                    <titulo1>KTM 125 SX 2020</titulo1>
+                    <link1>ktm1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/ktm2.jpg</imagenpr2>
+                    <titulo2>KTM 85 SX 2020</titulo2>
+                    <link2>ktm2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/ktm3.jpg</imagenpr3>
+                    <titulo3>KTM 50 SX 2020</titulo3>
+                    <link3>ktm3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/ktm4.jpg</imagenpr4>
+                    <titulo4>KTM 65 SX 2020</titulo4>
+                    <link4>ktm4.php</link4>
+                </producto4>
+                <descripcion>
+                    Tras la renovación realizada en 2019, la KTM 450 SX-F 2020 apenas recibe cambios estéticos así como algunos retoques en el propulsor. Se mantiene por tanto como el modelo tope de gama dentro de la marca austriaca, una moto que ha logrado grandes éxitos en los últimos años de la mano de Tony Cairoli en el Mundial de Motocross. Destaca por su potente motor de 63 CV, muy ligero y compacto, con un solo árbol de levas, alimentado por inyección electrónica y dotado de arranque eléctrico. Llama la atención el diseño del escape, que permite ser desmontado sin necesidad de desmontar el amortiguador. Gracias a un botón situado en el manillar, el piloto puede jugar con el control de tracción, el control de salida y con los distintos tipos de modo de motor.&lt;br&gt;&lt;br&gt;El chasis fue el elmento que más cambió el año pasado, se trata de un bastidor de acero muy ligero y que ofrece un alto grado de rigidez. A él va anclado un basculante de aluminio fabricado en una sola pieza. En cuanto a las suspensiones, la 450 SX-F equipa una horquilla invertida WP XACT AER con barras de 48 mm de diámetro con funciones separadas en cada botella. El amortiguador trasero es un WP XACT DDC con bieletas y que, al igual que la horquilla, es completamente regulable. La frenada se confía a un sistema Brembo y a unos discos "wave".&lt;br&gt;&lt;br&gt;El conjunto que compone el asiento, depósito y estriberas ha sido diseñado para ofrecer un máximo control.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </ktm5>
+        </marca>
+        <marca>
+            <suzuki1>
+                <!--https://www.motofichas.com/marcas/suzuki/rm-z-250-2019-->
+                <titulo>SUZUKI RM-Z250 2019</titulo>
+                <portada>../imagenes/productos/motos/suzuki1.jpg</portada>
+                <precio>8.350</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/suzuki2.jpg</imagenpr1>
+                    <titulo1>SUZUKI DR-Z125 2018-2019</titulo1>
+                    <link1>suzuki2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/suzuki3.jpg</imagenpr2>
+                    <titulo2>SUZUKI RM-Z 250 2017</titulo2>
+                    <link2>suzuki3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/suzuki4.jpg</imagenpr3>
+                    <titulo3>SUZUKI RM-Z450 2018</titulo3>
+                    <link3>suzuki4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/suzuki5.jpg</imagenpr4>
+                    <titulo4>SUZUKI RM-Z 450 ´11</titulo4>
+                    <link4>suzuki5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Suzuki RM-Z250 se transforma por completo en 2019 siguiendo la estela de la RM-Z 450 que se renovó en 2018. Los cambios se encuentran a todos los niveles, especialmente en la parte ciclo, donde se ha incorporado un nuevo chasis (370 gr. más ligero) y un nuevo basculante (80 gr. más ligero) con los que se gana en manejabilidad y rigidez. También estrena un nuevo amortiguador, mientras que la horquilla recibe nuevos ajustes para adaptarla a los cambios introducidos y mejorar su rendimiento. El disco delantero es en 2019 de mayor diámetro y en las ruedas se han montado unos nuevos neumáticos fabricados por Dunlop y denominados Geomax MX33. Lógicamente, la nueva RM-Z250 cuenta con nuevos plásticos que mejoran la ergonomía del piloto y hacen la moto más estrecha, incluyendo su asiento. El nuevo depósito de combustible establece un ahorro de 312 gr.&lt;br&gt;&lt;br&gt;En cuanto al motor, el trabajo de los ingenieros se ha centrado en conseguir más potencia (5% más) y par sin afectar a la facilidad de conducción, mejorando además la respuesta del acelerador gracias a un nuevo doble inyector y muchas mejoras internas. El filtro de aire también incrementa un 30% su caudal para contribuir al mejor remdimiento del motor en toda la gama de revoluciones, especialmente a altas. También la bomba de gasolina es capaz de meter un 17% más de presión a la mezcla, mejorando la respuesta del acelerador.&lt;br&gt;&lt;br&gt;En el apartado electrónico se incorpora además una nueva versión del control de salidas y del control de tracción. Los dos modos (A y B) del Suzuki Holeshot Assist Control (S-HAC) han sido mejorados.&lt;br&gt;&lt;br&gt;El escape es también novedad (más largo) y a su vez se han revisado las relaciones del cambio de marchas con el objetivo de mejorar la aceleración y la tracción: la segunda relación se alarga y la relación final se acorta.&lt;br&gt;&lt;br&gt;La posición de conducción también se ha revisado, adelantándolo y elevándolo, para permitir el mayor volumen del filtro de aire aunque se ha trabajado en el mullido del asiento para no elevar su altura. Las estriberas se han movido 3,3 mm hacia adelante y 5,2 mm hacia arriba, mientras que el revisado manillar (Renthal de aluminio) se ha movido 7,4 mm hacia adelante y 3,8 hacia abajo.&lt;br&gt;&lt;br&gt;La nueva decoración a imagen y semejanza de la RM-Z 450, inspirada en la moto de MXGP, remata todo lo nuevo de la RM-Z 250.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </suzuki1>
+            <suzuki2>
+                <!--https://www.motofichas.com/marcas/suzuki/dr-z125-->
+                <titulo>SUZUKI DR-Z125 2018-2019</titulo>
+                <portada>../imagenes/productos/motos/suzuki2.jpg</portada>
+                <precio>3.049</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/suzuki1.jpg</imagenpr1>
+                    <titulo1>SUZUKI RM-Z250 2019</titulo1>
+                    <link1>suzuki1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/suzuki3.jpg</imagenpr2>
+                    <titulo2>SUZUKI RM-Z 250 2017</titulo2>
+                    <link2>suzuki3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/suzuki4.jpg</imagenpr3>
+                    <titulo3>SUZUKI RM-Z450 2018</titulo3>
+                    <link3>suzuki4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/suzuki5.jpg</imagenpr4>
+                    <titulo4>SUZUKI RM-Z 450 ´11</titulo4>
+                    <link4>suzuki5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Suzuki DR-Z125 es una pequeña moto de aprendizaje, a medio camino entre una de cross y una de enduro, pero que al no estar homologada para circular por vías públicas su uso queda restringido a circuitos cerrados.&lt;br&gt;&lt;br&gt;Al ser una moto enfocada a un público novato, se ha apostado por un motor de fácil manejo, un 12 4T, de cambio manual y muy ligera: sólo 89 kg. Se fabrica con dos medidas de ruedas, aunque a España sólo llega la más pequeña: 17" delante y 14" detrás, siendo de 19" y 16", delante y detrás, respectivamente, la más grande -R-Z125L-.&lt;br&gt;&lt;br&gt;El resto de componentes mantienen esa filosofía sencilla, en donde se aprecia una horquilla convencional, un monoamortiguado trasero con bieletas, un disco delantero y un tambor trasero.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </suzuki2>
+            <suzuki3>
+                <!--https://www.motofichas.com/marcas/suzuki/rm-z-250-2017-->
+                <titulo>SUZUKI RM-Z 250 2017</titulo>
+                <portada>../imagenes/productos/motos/suzuki3.jpg</portada>
+                <precio>8.099</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/suzuki1.jpg</imagenpr1>
+                    <titulo1>SUZUKI RM-Z250 2019</titulo1>
+                    <link1>suzuki1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/suzuki2.jpg</imagenpr2>
+                    <titulo2>SUZUKI DR-Z125 2018-2019</titulo2>
+                    <link2>suzuki2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/suzuki4.jpg</imagenpr3>
+                    <titulo3>SUZUKI RM-Z450 2018</titulo3>
+                    <link3>suzuki4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/suzuki5.jpg</imagenpr4>
+                    <titulo4>SUZUKI RM-Z 450 ´11</titulo4>
+                    <link4>suzuki5.php</link4>
+                </producto4>
+                <descripcion>
+                    Toda la experiencia adquirida en el Mundial de Motocross y en el Supercross USA ha servido para que Suzuki realice una serie de mejoras en la RM-Z250. La nueva cross japonesa ha montado un nuevo pistón en su motor de 249 cc con el que se mejora la fiabilidad y se aumenta la durabilidad. Otras modificaciones añadidas en 2017 se encuentran en las suspensiones, ahora con ajuste integral y en el depósito de combustible, con diferentes ajustes dependiendo del estado del circuito.&lt;br&gt;&lt;br&gt;El equipamiento de la RM-Z250 es muy completo, y cuenta con el sistema de ayuda en las salidas de Suzuki, el Holeshot Assist Control y contador de horas en marcha, imprescindible para llevar un control exhaustivo del mantenimiento.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </suzuki3>
+            <suzuki4>
+                <!--https://www.motofichas.com/marcas/suzuki/rm-z450-2018-->
+                <titulo>SUZUKI RM-Z450 2018</titulo>
+                <portada>../imagenes/productos/motos/suzuki4.jpg</portada>
+                <precio>8.999</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/suzuki1.jpg</imagenpr1>
+                    <titulo1>SUZUKI RM-Z250 2019</titulo1>
+                    <link1>suzuki1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/suzuki2.jpg</imagenpr2>
+                    <titulo2>SUZUKI DR-Z125 2018-2019</titulo2>
+                    <link2>suzuki2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/suzuki3.jpg</imagenpr3>
+                    <titulo3>SUZUKI RM-Z 250 2017</titulo3>
+                    <link3>suzuki3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/suzuki5.jpg</imagenpr4>
+                    <titulo4>SUZUKI RM-Z 450 ´11</titulo4>
+                    <link4>suzuki5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Suzuki RM-Z450 2018 recibe numerosas mejoras para lograr más potencia, un motor más aprovechable, mejor maniobrabilidad y una frenada más contundente. Todo esto se ha conseguido gracias a una nueva gestión de la tracción a través de las modificaciones introducidas en el acelerador y en la electrónica, un nuevo chasis y un nuevo basculante, un nuevo amortiguador y a los nuevos neumáticos Bridgestone.&lt;br&gt;&lt;br&gt;Mantiene la RM-Z450 2018 el asistente para las salidas (Holeshot Assist Control) con dos modos seleccionables dependiendo del tipo de terreno, además de poderse desconectar, que permite controlar mejor su potencia. El chasis, de nueva factura, está fabricado en aluminio, al igual que el basculante, permitiendo el nuevo diseño un mejor reparto del peso, además de aligerar todo el conjunto.&lt;br&gt;&lt;br&gt;Showa suministra el material para la suspensión. Se estrena un nuevo amortiguador BFRC, el cual ofrece una mejor respuesta, además de resultar más sencilla su regulación. La horquilla es de muelles, los cuales han sido modificados. El disco delantero crece en tamaño pasando de 250 mm a 280 mm. Por último, se sustituye el depósito de aluminio por otro de resina, bastante más ligero.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </suzuki4>
+            <suzuki5>
+                <!--https://www.motofichas.com/marcas/suzuki/rm-z-450-11-->
+                <titulo>SUZUKI RM-Z 450 ´11</titulo>
+                <portada>../imagenes/productos/motos/suzuki5.jpg</portada>
+                <precio>Fuera de Stock</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/suzuki1.jpg</imagenpr1>
+                    <titulo1>SUZUKI RM-Z250 2019</titulo1>
+                    <link1>suzuki1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/suzuki2.jpg</imagenpr2>
+                    <titulo2>SUZUKI DR-Z125 2018-2019</titulo2>
+                    <link2>suzuki2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/suzuki3.jpg</imagenpr3>
+                    <titulo3>SUZUKI RM-Z 250 2017</titulo3>
+                    <link3>suzuki3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/suzuki4.jpg</imagenpr4>
+                    <titulo4>SUZUKI RM-Z450 2018</titulo4>
+                    <link4>suzuki4.php</link4>
+                </producto4>
+                <descripcion>-DESCATALOGADA-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</descripcion>
+            </suzuki5>
+        </marca>
+        <marca>
+            <yamaha1>
+                <!--https://www.motofichas.com/marcas/yamaha/yz125-2020-->
+                <titulo>YAMAHA YZ125 2020</titulo>
+                <portada>../imagenes/productos/motos/yamaha1.jpg</portada>
+                <precio>7.399</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/yamaha2.jpg</imagenpr1>
+                    <titulo1>YAMAHA TT-R125LW/E 2020</titulo1>
+                    <link1>yamaha2.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/yamaha3.jpg</imagenpr2>
+                    <titulo2>YAMAHA PW50 2020</titulo2>
+                    <link2>yamaha3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/yamaha4.jpg</imagenpr3>
+                    <titulo3>YAMAHA YZ85 2020</titulo3>
+                    <link3>yamaha4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/yamaha5.jpg</imagenpr4>
+                    <titulo4>YAMAHA YZ250 2020</titulo4>
+                    <link4>yamaha5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Yamaha YZ125 es una moto ideal para iniciarse en el motocross y también para que los más experimentados disfruten con la alegría de su motor 125 cc 2T, dotado de la válvula de escape YPVS de Yamaha, con una caja de cambios de seis marchas de relación cerrada y para que la hay disponible un kit YRRD para alcanzar mayores prestaciones.&lt;br&gt;&lt;br&gt;Una horquilla KYB invertida con barras de 48 mm destaca en el apartado de las suspensiones. Se trata del mismo material que utilizan los modelos de 4T e incluye un sistema independiente de aire/aceite que evita que se pueda introducir aire en el cartucho. De las versiones de válvulas también recibe el sistema de amortiguación trasero, que recibe un nuevo basculante y un amortiguador diferente. Las estriberas son bastantes amplias con lo que el piloto consigue una posición agresiva y logra un gran control. El chasis es como el de la 250 2T, un doble semicuna fabricado en aluminio, muy ligero con lo que se consigue un peso de 94 kg.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </yamaha1>
+            <yamaha2>
+                <!--https://www.motofichas.com/marcas/yamaha/tt-r125lw-e-2020-->
+                <titulo>YAMAHA TT-R125LW/E 2020</titulo>
+                <portada>../imagenes/productos/motos/yamaha2.jpg</portada>
+                <precio>3.299</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/yamaha1.jpg</imagenpr1>
+                    <titulo1>YAMAHA YZ125 2020</titulo1>
+                    <link1>yamaha1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/yamaha3.jpg</imagenpr2>
+                    <titulo2>YAMAHA PW50 2020</titulo2>
+                    <link2>yamaha3.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/yamaha4.jpg</imagenpr3>
+                    <titulo3>YAMAHA YZ85 2020</titulo3>
+                    <link3>yamaha4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/yamaha5.jpg</imagenpr4>
+                    <titulo4>YAMAHA YZ250 2020</titulo4>
+                    <link4>yamaha5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Yamaha TT-R125LW y TT-R125E, con arranque eléctrico, están pensadas como la transición perfecta para los jóvenes pilotos cuya talla y aptitudes están a medio camino entre una moto infantil con rueda pequeña y potencia limitada y una moto de cross de tamaño grande, de ahí la elección de llanta delantera de 19 pulgadas. Aunque es una montura básica en su concepto, estéticamente es bastante atractiva al contar con unos plásticos y unos gráficos similares a los de las monturas de mayor cilindrada.&lt;br&gt;&lt;br&gt;Cuenta con una mecánica sencilla y fiable, con la que se puede estar centrado en el pilotaje y la diversión sin preocuparse del mantenimiento ni los problemas derivados de las máquinas más sofisticadas. El motor está refrigerado por aire, monta un cambio de cinco velocidades y el embrague es manual por cable.&lt;br&gt;&lt;br&gt;En esa misma línea los frenos combinan un disco delantero de220 mm de diámetro con un tambor trasero de 110 mm.&lt;br&gt;&lt;br&gt;Las suspensiones son robustas y eficaces, pero sin mayores complicaciones. Delante encontramos una horquilla convencional con un recorrido de 180 mm mientras que detrás se ha montado un monoamortiguador progresivo con 168 mm de recorrido.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </yamaha2>
+            <yamaha3>
+                <!--https://www.motofichas.com/marcas/yamaha/pw50-2020-->
+                <titulo>YAMAHA PW50 2020</titulo>
+                <portada>../imagenes/productos/motos/yamaha3.jpg</portada>
+                <precio>1.799</precio>
+                <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/yamaha1.jpg</imagenpr1>
+                    <titulo1>YAMAHA YZ125 2020</titulo1>
+                    <link1>yamaha1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/yamaha2.jpg</imagenpr2>
+                    <titulo2>YAMAHA TT-R125LW/E 2020</titulo2>
+                    <link2>yamaha2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/yamaha4.jpg</imagenpr3>
+                    <titulo3>YAMAHA YZ85 2020</titulo3>
+                    <link3>yamaha4.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/yamaha5.jpg</imagenpr4>
+                    <titulo4>YAMAHA YZ250 2020</titulo4>
+                    <link4>yamaha5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Yamaha PW50 es la moto de entrada al cross dentro del catálogo de la marca japonesa, propulsada por un motor de 50 cc 2T refrigerado por aire y con una caja de cambios automática. La respuesta del mismo es suave y cuenta con un limitador del acelerador para que se pueda ajustar la velocidad máxima de la moto. La PW50 monta un depósito de aceite, con lo que no es necesario hacer la mezcla previamente, y también un sistema de transmisión por cardán, para reducir las tareas de mantenimiento y ofrecer mayor seguridad a los más pequeños.&lt;br&gt;&lt;br&gt;Las ruedas de la PW50 son de 10", con unas llantas de radios de tres palos fabricadas en acero, con lo que se aumenta la robustez sin aumentar demasiado el peso del conjunto, que es de 39 kg. Los frenos son de tambor y se accionan mediante las palancas situadas en su manillar: trasero con la mano izquierda y delantero con la derecha. El asiento, situado a sólo 485 mm del suelo, permite su uso por niños de muy corta estatura.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </yamaha3>
+            <yamaha4>
+                <!--https://www.motofichas.com/marcas/yamaha/yz85-2020-->
+                <titulo>YAMAHA YZ85 2020</titulo>
+                <portada>../imagenes/productos/motos/yamaha4.jpg</portada>
+                <precio>4.699</precio>
+                <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/yamaha1.jpg</imagenpr1>
+                    <titulo1>YAMAHA YZ125 2020</titulo1>
+                    <link1>yamaha1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/yamaha2.jpg</imagenpr2>
+                    <titulo2>YAMAHA TT-R125LW/E 2020</titulo2>
+                    <link2>yamaha2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/yamaha3.jpg</imagenpr3>
+                    <titulo3>YAMAHA PW50 2020</titulo3>
+                    <link3>yamaha3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/yamaha5.jpg</imagenpr4>
+                    <titulo4>YAMAHA YZ250 2020</titulo4>
+                    <link4>yamaha5.php</link4>
+                </producto4>
+                <descripcion>
+                    La Yamaha YZ85 es la pequeña crossera de la marca japonesa, ideal para que los preadolescentes aprendan con una moto de competición equipada con un potente motor 2T de 85 cc con seis marchas de relación corta que se renovó por completo en 2019. Se trata de un propulsor refrigerado por agua con sistema de admisión con válvulas de láminas y un sistema mecánico YPVS. Los cambios introducidos el año pasado en cárter, cigüeñal, biela, transmisión, escape y encendido CDI mejoró significativamente la tracción sin que esto afectase a la potencia.&lt;br&gt;&lt;br&gt;El chasis es un doble semicuna en acero, también nuevo en 2019, con el subchasis desmontable y el basculante de aluminio. Se caracteriza por la ergonomía y por la sensación de ligereza que transmite, además de ofrecer mucho control en el pilotaje. El asiento es bastante cómodo mientras que el manilar permite cuatro posiciones y las manetas se pueden regular. Otras mejoras introducidas en 2019 afectan a la frenada, como el montaje de los nuevos latiguillos del freno delantero más resistentes y los discos tipo "wave" que ofrecen mejor rendimiento en barro y con frío. En las suspensiones no hay cambios y se sigue contando con una horquilla invertida KYB con barras de 36 mm totalmente regulable. También es ajustable el monoamortiguador trasero con sistema de bieletas.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </yamaha4>
+            <yamaha5>
+                <!--https://www.motofichas.com/marcas/yamaha/yz250-2020-->
+                <titulo>YAMAHA YZ250 2020</titulo>
+                <portada>../imagenes/productos/motos/yamaha5.jpg</portada>
+                <precio>8.199</precio>
+                <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+                <producto1>
+                    <imagenpr1>../imagenes/productos/motos/yamaha1.jpg</imagenpr1>
+                    <titulo1>YAMAHA YZ125 2020</titulo1>
+                    <link1>yamaha1.php</link1>
+                </producto1>
+                <producto2>
+                    <imagenpr2>../imagenes/productos/motos/yamaha2.jpg</imagenpr2>
+                    <titulo2>YAMAHA TT-R125LW/E 2020</titulo2>
+                    <link2>yamaha2.php</link2>
+                </producto2>
+                <producto3>
+                    <imagenpr3>../imagenes/productos/motos/yamaha3.jpg</imagenpr3>
+                    <titulo3>YAMAHA PW50 2020</titulo3>
+                    <link3>yamaha3.php</link3>
+                </producto3>
+                <producto4>
+                    <imagenpr4>../imagenes/productos/motos/yamaha4.jpg</imagenpr4>
+                    <titulo4>YAMAHA YZ85 2020</titulo4>
+                    <link4>yamaha4.php</link4>
+                </producto4>
+                <descripcion>
+                    La Yamaha YZ250 con motor de 2T se mantiene un año más dentro del catálogo de la marca japonesa, una moto idónea para todo tipo de usuarios, incluso los "freestylers" que buscan una montura ligera y con un motor propulsor con carácter. La YZ250 ofrece todo eso, además de mucho par en toda su banda de potencia gracias al uso del YPVS, sistema de apertura de válvulas de Yamaha.&lt;br&gt;&lt;br&gt;El chasis de la YZ250 es un doble semicuna de aluminio muy pequeño ligero, que ofrece gran resistencia y bajo peso -103 kg-. La horquilla invertida KYB de 48 mm es igual que las que montan las de de 4T -con distintos ajustes-, que incluye un sistema independiente de aire/aceite que evita que se mezclen ambos componentes lográndose una mayor estabilidad. Detrás también comparte componentes con las cuatro tiempos, con un monoamortiguador progresivo y estrenando basculante y bieletas.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                </descripcion>
+            </yamaha5>
+        </marca>
+    </motos>
+    <juegos>
+        <mes3>
+            <titulo>MONSTER ENERGY SUPERCROSS 3</titulo>
+            <portada>../imagenes/productos/juegos/monster/portada.jpg</portada>
+            <precio>59,95</precio>
+            <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+            <producto1>
+                <imagenpr1>../imagenes/productos/juegos/mxatv/portada.jpg</imagenpr1>
+                <titulo1>MX vs ATV</titulo1>
+                <link1>mxvsatv.php</link1>
+            </producto1>
+            <producto2>
+                <imagenpr2>../imagenes/productos/juegos/mxgp/portada.jpeg</imagenpr2>
+                <titulo2>MXGP 2019</titulo2>
+                <link2>mxgp2019.php</link2>
+            </producto2>
+            <producto3>
+                <imagenpr3>../imagenes/productos/juegos/trials/portada.jpg</imagenpr3>
+                <titulo3>Trials Fusion</titulo3>
+                <link3>trialsfusion.php</link3>
+            </producto3>
+            <producto4>
+                <imagenpr4>../imagenes/productos/equipo/productos/equipaciononeal1.jpg</imagenpr4>
+                <titulo4>ONEAL ELEMENT IMPACT</titulo4>
+                <link4>equipaciononeal1.php</link4>
+            </producto4>
+            <descripcion>
+                Limpia tus guardabarros, llega la nueva temporada de Supercross de la mano de Monster Energy Supercross 3 para PlayStation 4, Xbox One y Nintendo Switch. Por primera vez en la franquicia podrás formar parte de un equipo oficial. Elige tu sponsor o únete a uno de los equipos oficiales del campeonato 2019 y conviértete en compañero de los pilotos oficiales.&lt;br&gt;&lt;br&gt;Da rienda suelta a tu creatividad y crea múltiples circuitos gracias al potente editor de circuitos. Podrás compartirlos, votar tus favoritos e incluso descargar para usar tanto online como offline y crear tus propios campeonatos.&lt;br&gt;&lt;br&gt;Este año podrás disfrutar también de la experiencia en cooperativo, corre con tus amigos en el legendario Test Area de California.&lt;br&gt;&lt;br&gt;Crea las mejores competiciones online, gestiona múltiples carreras. Elige las posiciones de salida, ajusta las penalizaciones, decide las reglas y ajustes de la carrera, modifica los resultados y elige las cámaras que quieres que destaquen tu evento.&lt;br&gt;&lt;br&gt;Monster Energy Supercross 3 es mucho más multijugador que nunca. Disfruta una nueva experiencia online con servidores dedicados y el nuevo modo Director de Carrera.&lt;br&gt;&lt;br&gt;¡El único juego oficial del campeonato Monster Energy AMA Supercross está de vuelta! Contenido completamente oficial, desde equipos reales hasta complejos de entrenamiento. Monster Energy Supercross 3 es una réplica exacta del mundo de Supercross.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+            </descripcion>
+            <imagen1>../imagenes/productos/juegos/monster/imagen1.jpg</imagen1>
+            <imagen2>../imagenes/productos/juegos/monster/imagen2.jpg</imagen2>
+            <imagen3>../imagenes/productos/juegos/monster/imagen3.jpg</imagen3>
+            <imagen4>../imagenes/productos/juegos/monster/imagen4.jpg</imagen4>
+            <imagen5>../imagenes/productos/juegos/monster/imagen5.jpg</imagen5>
+        </mes3>
+        <mxvsatv>
+            <!--https://www.game.es/VIDEOJUEGOS/CONDUCCION/PC/MX-VS-ATV-ALL-OUT/144683-->
+            <titulo>MX vs ATV</titulo>
+            <portada>../imagenes/productos/juegos/mxatv/portada.jpg</portada>
+            <precio>9,95</precio>
+            <valoracion>../imagenes/productos/valoracion/3cascos.png</valoracion>
+            <producto1>
+                <imagenpr1>../imagenes/productos/juegos/monster/portada.jpg</imagenpr1>
+                <titulo1>MES 3</titulo1>
+                <link1>mes3.php</link1>
+            </producto1>
+            <producto2>
+                <imagenpr2>../imagenes/productos/juegos/mxgp/portada.jpeg</imagenpr2>
+                <titulo2>MXGP 2019</titulo2>
+                <link2>mxgp2019.php</link2>
+            </producto2>
+            <producto3>
+                <imagenpr3>../imagenes/productos/juegos/trials/portada.jpg</imagenpr3>
+                <titulo3>Trials Fusion</titulo3>
+                <link3>trialsfusion.php</link3>
+            </producto3>
+            <producto4>
+                <imagenpr4>../imagenes/productos/equipo/productos/equipacionfox1.jpg</imagenpr4>
+                <titulo4>FOX 360 VIZA</titulo4>
+                <link4>equipacionfox1.php</link4>
+            </producto4>
+            <descripcion>
+                ¡Todos los terrenos, todos los vehículos, todo tuyo! MX vs ATV All Out es la experiencia de carreras todoterreno definitiva para PlayStation 4, Xbox One y PC.&lt;br&gt;Elige entre motos, ATV y UTV, pule tu estilo en tu complejo privado y disfruta de distintos modos de juego en enormes mundos abiertos. ¡Elige el modo libre para realizar acrobacias demenciales y ganar con estilo o ve ""A por todas"" y demuestra tus habilidades de pilotaje en el multijugador!&lt;br&gt;&lt;br&gt;¡Todos los terrenos, todos los vehículos, todo tuyo! MX vs ATV All Out es la experiencia de carreras todoterreno definitiva.&lt;br&gt;&lt;br&gt;Elige entre motos, ATV y UTV, pule tu estilo en tu complejo privado y disfruta de distintos modos de juego en enormes mundos abiertos. ¡Elige el modo libre para realizar acrobacias demenciales y ganar con estilo o ve ""A por todas"" y demuestra tus habilidades de pilotaje en el multijugador!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+            </descripcion>
+            <imagen1>../imagenes/productos/juegos/mxatv/imagen1.jpg</imagen1>
+            <imagen2>../imagenes/productos/juegos/mxatv/imagen2.jpg</imagen2>
+            <imagen3>../imagenes/productos/juegos/mxatv/imagen3.jpg</imagen3>
+            <imagen4>../imagenes/productos/juegos/mxatv/imagen4.jpg</imagen4>
+            <imagen5>../imagenes/productos/juegos/mxatv/imagen5.jpg</imagen5>
+        </mxvsatv>
+        <mxgp2019>
+            <!--https://www.game.es/mxgp-2019-playstation-4-166239-->
+            <titulo>MXGP 2019</titulo>
+            <portada>../imagenes/productos/juegos/mxgp/portada.jpeg</portada>
+            <precio>29,95</precio>
+            <valoracion>../imagenes/productos/valoracion/5cascos.png</valoracion>
+            <producto1>
+                <imagenpr1>../imagenes/productos/juegos/monster/portada.jpg</imagenpr1>
+                <titulo1>MES 3</titulo1>
+                <link1>mes3.php</link1>
+            </producto1>
+            <producto2>
+                <imagenpr2>../imagenes/productos/juegos/mxatv/portada.jpg</imagenpr2>
+                <titulo2>MX vs ATV</titulo2>
+                <link2>mxvsatv.php</link2>
+            </producto2>
+            <producto3>
+                <imagenpr3>../imagenes/productos/juegos/trials/portada.jpg</imagenpr3>
+                <titulo3>Trials Fusion</titulo3>
+                <link3>trialsfusion.php</link3>
+            </producto3>
+            <producto4>
+                <imagenpr4>../imagenes/productos/equipo/productos/equipacionshot4.jpg</imagenpr4>
+                <titulo4>SHOT AEROLITE ALPHA</titulo4>
+                <link4>equipacionshot4.php</link4>
+            </producto4>
+            <descripcion>
+                Vive la experiencia del campeonato del mundo actual de MXGP por primera vez en toda la historia de la franquicia, con MXGP 19 para PlayStation 4 y Xbox One. Todos los pilotos oficiales, sus motocicletas y equipos de MXGP y MX2 de la temporada 2019 estan listos para que aceptes el desafio de todos los eventos oficiales a lo largo de todo el globo.&lt;br&gt;&lt;br&gt;Desde Nequen a Shangai, gracias a MXGP 19 vivirás todas las emociones de competir en el campeonato actual. Sigue las posiciones e intenta cambiar el rumbo de tu destino, incluso en eventos que aún nos e han celebrado, y como en la vida real, experimenta diferentes condiciones climáticas mientras juegas, recuerda que después de la lluvia siempre sale el sol.&lt;br&gt;&lt;br&gt;Desata tu creatividad, dale vida a la pista de tus sueños y compártela con tus amigos y con la comunidad de motocross ¿Quién realizará la pista con el mejor flujo de motocross? Elige entre 4 paisajes y terrenos diferentes y crea tu camino entre el lodo del bosque, las dunas del desierto, las colinas de la Riviera francesa y los peligros de la selva del área del Pacífico.&lt;br&gt;&lt;br&gt;Entrena tus habilidades de conducción y mejora tus habilidades en el Playground establecido en Provenza. Corre gratis, compite en diferentes diseños y en diferentes condiciones climáticas y horarios diurnos, obtén recompensas de personalización únicas completando algunos ensayos especiales y lleva la competencia a un nivel completamente nuevo con el modo de juego dedicado: The Waypoint. Crea tu ruta única para poner puntos de control en los terrenos o descárgalos en línea.&lt;br&gt;&lt;br&gt;El videojuego oficial MXGP está de vuelta y, por primera vez, podrás vivir la experiencia del actual Campeonato del Mundo MXGP. ¡Los pilotos oficiales de la temporada 2019, los equipos MXGP y MX2 están listos para desafiarte en los 19 eventos oficiales de todo el mundo!&lt;br&gt;&lt;br&gt;¡Únete a los equipos oficiales, únete a tus lobbies personales e invita a tus amigos a participar en tu desafío, elige las reglas y encamínate con tus nuevos oponentes! Conviértete en el actor principal del juego y da forma a tu mejor experiencia de juego gracias a los nuevos modos de juego jamás vistos en toda la serie MXGP.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+            </descripcion>
+            <imagen1>../imagenes/productos/juegos/mxgp/imagen1.jpg</imagen1>
+            <imagen2>../imagenes/productos/juegos/mxgp/imagen2.jpg</imagen2>
+            <imagen3>../imagenes/productos/juegos/mxgp/imagen3.jpg</imagen3>
+            <imagen4>../imagenes/productos/juegos/mxgp/imagen4.jpeg</imagen4>
+            <imagen5>../imagenes/productos/juegos/mxgp/imagen5.jpg</imagen5>
+        </mxgp2019>
+        <trialsfusion>
+            <!--https://www.game.es/VIDEOJUEGOS/CONDUCCION/PC/TRIALS-FUSION/101236-->
+            <titulo>TRIALS FUSION</titulo>
+            <portada>../imagenes/productos/juegos/trials/portada.jpg</portada>
+            <precio>2,95</precio>
+            <valoracion>../imagenes/productos/valoracion/4cascos.png</valoracion>
+            <producto1>
+                <imagenpr1>../imagenes/productos/juegos/monster/portada.jpg</imagenpr1>
+                <titulo1>MES 3</titulo1>
+                <link1>mes3.php</link1>
+            </producto1>
+            <producto2>
+                <imagenpr2>../imagenes/productos/juegos/mxatv/portada.jpg</imagenpr2>
+                <titulo2>MX vs ATV</titulo2>
+                <link2>mxvsatv.php</link2>
+            </producto2>
+            <producto3>
+                <imagenpr3>../imagenes/productos/juegos/mxgp/portada.jpeg</imagenpr3>
+                <titulo3>MXGP 2019</titulo3>
+                <link3>mxgp2019.php</link3>
+            </producto3>
+            <producto4>
+                <imagenpr4>../imagenes/productos/equipo/productos/equipacionalpinestars3.jpg</imagenpr4>
+                <titulo4>ALPINESTARS TECHSTAR</titulo4>
+                <link4>equipacionalpinestars3.php</link4>
+            </producto4>
+            <descripcion>
+                Lánzate a por la ilimitada variedad de retos competitivos del irreal mundo de Trials Fusion. Tendrás que emplearte a fondo para superar obstáculos de todo tipo, circuitos con rampas, y esforzarte para lograr los mayores récords contra los jugadores de Trials de todo el planeta. Da igual que compitas solo, con amigos, o en un torneo mundial, siempre habrá una competición esperándote. Y correr en circuitos oficiales es solo el comienzo. Dispondrás de un rico mundo de circuitos personalizados, creados por algunos de los diseñadores más creativos y habilidosos, listos para aquellos que busquen siempre nuevos retos que conquistar.&lt;br&gt;&lt;br&gt;Carreras y plataformas: El mejor.Circuitos de motocross con un diseño de físicas y realidad alterada conjunto capaz de ofrecer una experiencia competitiva que ningún otro juego puede igualar. Demuestra que no tienes miedo con el nuevo sistema de trucos FMX, y elige tu ruta hacia la victoria a través de intrincados circuitos. El objetivo es llegar a meta, pero el auténtico reto es todo lo que hay antes.&lt;br&gt;&lt;br&gt;Competición ilimitada. Da igual que compitas solo, con amigos, o en torneos mundiales, siempre hay una carrera esperándote. La variedad y profundidad del juego ofrece ilimitadas formas de carreras básicas, en equipo, y mucho más, tus días de competición no se acabarán nunca.&lt;br&gt;&lt;br&gt;Ricos contenidos generados por los usuarios de la comunidad. Sumérgete en la ilimitada experiencia de Trials con circuitos personalizados, creados gracias al Modo Editor del juego. Los contenidos de los usuarios permiten a algunos de los diseñadores más creativos del mundo ofrecer novedades sin parar para Trials Fusion, abriendo la puerta a un mundo de posibilidades que solo las mentes de los fans más entusiastas de Trials son capaces de conseguir.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+            </descripcion>
+            <imagen1>../imagenes/productos/juegos/trials/imagen1.jpg</imagen1>
+            <imagen2>../imagenes/productos/juegos/trials/imagen2.jpg</imagen2>
+            <imagen3>../imagenes/productos/juegos/trials/imagen3.jpg</imagen3>
+            <imagen4>../imagenes/productos/juegos/trials/imagen4.jpg</imagen4>
+            <imagen5>../imagenes/productos/juegos/trials/imagen5.jpg</imagen5>
+        </trialsfusion>
+    </juegos>
+</productos>
